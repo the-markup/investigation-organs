@@ -1,6 +1,6 @@
 # How We Investigated UNOS’s Liver Allocation Policy
 
-An investigation from The Markup/Washington Post
+An investigation from The Markup/The Washington Post
 
 ---
 
