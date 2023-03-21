@@ -1,0 +1,54 @@
+﻿STATE_CODE,STATE_NAME,STATE_FIPS,STATE_REGION
+AL,Alabama,1,South
+AK,Alaska,2,West
+AZ,Arizona,4,West
+AR,Arkansas,5,South
+CA,California,6,West
+CO,Colorado,8,West
+CT,Connecticut,9,Northeast
+DE,Delaware,10,South
+DC,District of Columbia,11,South
+FL,Florida,12,South
+GA,Georgia,13,South
+HI,Hawaii,15,West
+ID,Idaho,16,West
+IL,Illinois,17,Midwest
+IN,Indiana,18,Midwest
+IA,Iowa,19,Midwest
+KS,Kansas,20,Midwest
+KY,Kentucky,21,South
+LA,Louisiana,22,South
+ME,Maine,23,Northeast
+MD,Maryland,24,South
+MA,Massachusetts,25,Northeast
+MI,Michigan,26,Midwest
+MN,Minnesota,27,Midwest
+MS,Mississippi,28,South
+MO,Missouri,29,Midwest
+MT,Montana,30,West
+NE,Nebraska,31,Midwest
+NV,Nevada,32,West
+NH,New Hampshire,33,Northeast
+NJ,New Jersey,34,Northeast
+NM,New Mexico,35,West
+NY,New York,36,Northeast
+NC,North Carolina,37,South
+ND,North Dakota,38,Midwest
+OH,Ohio,39,Midwest
+OK,Oklahoma,40,South
+OR,Oregon,41,West
+PA,Pennsylvania,42,Northeast
+PR,Puerto Rico,72,Territory
+RI,Rhode Island,44,Northeast
+SC,South Carolina,45,South
+SD,South Dakota,46,Midwest
+TN,Tennessee,47,South
+TX,Texas,48,South
+UT,Utah,49,West
+VT,Vermont,50,Northeast
+VA,Virginia,51,South
+WA,Washington,53,West
+WV,West Virginia,54,South
+WI,Wisconsin,55,Midwest
+WY,Wyoming,56,West
+VI,Virgin Islands,78,Territory

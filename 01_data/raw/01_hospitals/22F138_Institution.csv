@@ -1,0 +1,713 @@
+﻿CTR_CD,CTR_TY,REGION,NAME_PART1,NAME_PART2,ENTIRE_NAME,PRIMARY_CITY,PRIMARY_STATE,PRIMARY_ZIP,PROVIDER_NUM,PRIMARY_PROVINCE,PRIMARY_CTRY,OPTN_MBR,ESRD_REGION,CTR_ID
+ALAM,IT1: Hospital Based Lab,3,Transplant Evaluation Lab,Univ of South Alabama Med Ctr,USAMC Transplant Evaluation Lab,Mobile,AL,36617-2293,10087,,USA,0,,1
+ALAM,TX1: Transplant Hospital,3,Univ of South Alabama Med Ctr,,University of South Alabama Medical Center,Mobile,AL,36617-2293,10087,,USA,0,8,2
+ALBP,TX1: Transplant Hospital,3,Baptist Med Ctr Princeton,,Baptist Medical Center Princeton,Birmingham,AL,35211,10103,,USA,0,8,3
+ALCH,TX1: Transplant Hospital,3,Children's of Alabama,,Children's of Alabama,Birmingham,AL,35233,13300,,USA,1,8,4
+ALOB,OP1: Independent OPO,3,Legacy of Hope,Legacy of Hope,Legacy of Hope,Birmingham,AL,35233,01P001,,USA,1,,5
+ALUA,IT1: Hospital Based Lab,3,Histo and Immuno Lab CTI at UAB,,Histocompatibility and Immunogenetics Laboratory CTI at UAB,Birmingham,AL,35233,10033,,USA,1,,6
+ALUA,TX1: Transplant Hospital,3,Univ of Alabama Hospital,,University of Alabama Hospital,Birmingham,AL,35233,10033,,USA,1,8,7
+ARBH,TX1: Transplant Hospital,3,Baptist Medical Center,,Baptist Medical Center,Little Rock,AR,72205,40114,,USA,1,13,8
+ARCH,TX1: Transplant Hospital,3,Arkansas Children's Hospital,,Arkansas Children's Hospital,Little Rock,AR,72202,40117,,USA,1,13,9
+AROR,OP1: Independent OPO,3,Arkansas Reg. Organ Recovery Agency,,Arkansas Regional Organ Recovery Agency,Little Rock,AR,72204,04P001,,USA,1,,10
+ARUA,IT1: Hospital Based Lab,3,Tissue Typing Lab at UAMS Medical Ctr,,Tissue Typing Laboratory at UAMS Medical Center,Little Rock,AR,72202,04-HL01,,USA,1,,11
+ARUA,TX1: Transplant Hospital,3,UAMS Medical Center,,UAMS Medical Center,Little Rock,AR,72205,40016,,USA,1,13,12
+ARUA,VA1: Veteran's Hospital,3,John L. McClellan VA Hospital,,John L. McClellan Veterans Administration Hospital,Little Rock,AR,72205,04010F,,USA,0,,13
+AZGC,TT1: Independent Lab,5,Donor Network of AZ Immunogenetics,,Donor Network of Arizona Immunogenetics Laboratory,Tempe,AZ,85281,03HL02,,USA,1,,14
+AZGS,IO1: Hospital Based OPO,5,Good Samaritan Reg Med Ctr OPO,,Good Samaritan Regional Medical Center OPO,Phoenix,AZ,85006,30002,,USA,0,,15
+AZGS,TX1: Transplant Hospital,5,Banner- University Medical Center,,Banner-University Medical Center Phoenix,Phoenix,AZ,85006,30002,,USA,1,15,16
+AZHH,TX1: Transplant Hospital,5,Phoenix Regional Medical Center,,Phoenix Regional Medical Center,Phoenix,AZ,85016,30008,,USA,0,15,17
+AZMC,TX1: Transplant Hospital,5,Mayo Clinic Hospital Arizona,,Mayo Clinic Hospital Arizona,Phoenix,AZ,85054-4582,30103,,USA,1,15,18
+AZOB,OP1: Independent OPO,5,Donor Network of Arizona,,Donor Network of Arizona,Tempe,AZ,85281,03P001,,USA,1,,19
+AZSJ,TX1: Transplant Hospital,5,St Joseph's Hospital & Medical Center,,St. Joseph's Hospital and Medical Center,Phoenix,AZ,85013,30024,,USA,1,15,20
+AZSM,TX1: Transplant Hospital,5,Scottsdale Healthcare Osborn,formerly Scottsdale Memorial Hospital,Scottsdale Healthcare Osborn,Scottsdale,AZ,85251-6403,30038,,USA,0,15,21
+AZTL,TT1: Independent Lab,5,Blood Systems Laboratories,HLA Laboratory,Vitalant,Phoenix,AZ,85013,03HL63,,USA,1,,22
+AZTV,TX1: Transplant Hospital,5,Veterans Admin Med Ctr Tucson,,Veterans Administration Medical Center Tucson,Tucson,AZ,85723,03013F,,USA,0,15,23
+AZUA,IT1: Hospital Based Lab,5,Clinical HLA Laboratory,Banner University Medical Center,Banner University Medical Center- Clinical HLA Laboratory,Tucson,AZ,85719,30064,,USA,1,,24
+AZUA,TX1: Transplant Hospital,5,Banner University Medical Center,Tucson,Banner University Medical Center-Tucson,Tucson,AZ,85724,30064,,USA,1,15,25
+CABE,TX1: Transplant Hospital,5,St Bernardine Med Center,,Saint Bernardine Medical Center,San Bernardino,CA,92404,50129,,USA,0,18,26
+CABH,TX1: Transplant Hospital,5,Alta Bates Med Ctr,,Alta Bates Medical Center,Berkeley,CA,94705,50305,,USA,0,17,27
+CABM,TX1: Transplant Hospital,5,Summit Med Ctr,,Summit Medical Center,Oakland,CA,94609,50043,,USA,0,17,28
+CACH,TX1: Transplant Hospital,5,Rady Children's Hosp & Health Center,,Rady Children's Hospital and Health Center,San Diego,CA,92123-4282,53303,,USA,1,18,29
+CACL,IT1: Hospital Based Lab,5,HLA Lab Childrens Hosp Los Angeles,,HLA Laboratory at Childrens Hospital Los Angeles,Los Angeles,CA,90027,53302,,USA,1,,30
+CACL,TX1: Transplant Hospital,5,Childrens Hospital Los Angeles,,Childrens Hospital Los Angeles,Los Angeles,CA,90027,53302,,USA,1,18,31
+CACS,IT1: Hospital Based Lab,5,Transplantation & Immunogenetics Lab,Medical Genetics HLA Lab,Cedars-Sinai Transplantation and Immunogenetics Laboratory,Los Angeles,CA,90048-1869,50625,,USA,1,,32
+CACS,TX1: Transplant Hospital,5,Cedars-Sinai Med Center,,Cedars-Sinai Medical Center,Los Angeles,CA,90048,50625,,USA,1,18,33
+CADN,OP1: Independent OPO,5,Donor Network West,,Donor Network West,San Ramon,CA,94583,05P005,,USA,1,,34
+CAEC,TX1: Transplant Hospital,5,El Camino Hosp,,El Camino Hospital,Mountain View,CA,94040,50308,,USA,0,17,35
+CAEM,TX1: Transplant Hospital,5,Eisenhower Mem Hosp,,Eisenhower Memorial Hospital,Rancho Mirage,CA,92270,50573,,USA,0,18,36
+CAGH,TX1: Transplant Hospital,5,Scripps Green Hospital,,Scripps Green Hospital,La Jolla,CA,92037,50424,,USA,1,18,37
+CAGS,OP1: Independent OPO,5,Sierra Donor Services,,Sierra Donor Services,West Sacramento,CA,95691,05P004,,USA,1,,38
+CAIL,TT1: Independent Lab,5,Irvine HLA Tissue Typing Lab,Univ. of California,"University of California, Irvine HLA Tissue Typing Laboratory",Orange,CA,92868,,,USA,1,,39
+CAIM,IT1: Hospital Based Lab,5,UCI Med Ctr Lab,,University of California Irvine Medical Center Lab,Orange,CA,92868,50348,,USA,0,,40
+CAIM,TX1: Transplant Hospital,5,UCI Medical Center,,University of California Irvine Medical Center,Orange,CA,92868,50348,,USA,1,18,41
+CAKF,TX1: Transplant Hospital,5,Kaiser Permanente Hospital,,Kaiser Permanente Hospital,Los Angeles,CA,90027,50138,,USA,0,18,42
+CAKO,TX1: Transplant Hospital,5,Kaiser Permanente Hosp Oakland,,Kaiser Permanente Hospital Oakland,Oakland,CA,94611,50075,,USA,0,17,43
+CALA,TX1: Transplant Hospital,5,Harbor UCLA Med Center,,Harbor UCLA Medical Center,Torrance,CA,90502,50376,,USA,1,18,44
+CALB,TX1: Transplant Hospital,5,St Mary Medical Center,,St Mary Medical Center,Long Beach,CA,90813-3321,50191,,USA,0,18,45
+CALL,IT1: Hospital Based Lab,5,Histo & Flow Cytometry Lab,Loma Linda Univ. Hospital,Histocompatibility and Flow Cytometry Laboratories at Loma Linda University,Loma Linda,CA,92354,50327,,USA,1,,46
+CALL,TX1: Transplant Hospital,5,Loma Linda Univ Med Ctr,,Loma Linda University Medical Center,Loma Linda,CA,92354,50327,,USA,1,18,47
+CAMC,TX1: Transplant Hospital,5,Mercy Hosp and Med Ctr,,Mercy Hospital and Medical Center,San Diego,CA,92103-2180,,,USA,0,18,48
+CAMH,TX1: Transplant Hospital,5,Santa Rosa Memorial Hosp,,Santa Rosa Memorial Hospital,Santa Rosa,CA,95402,50174,,USA,0,17,49
+CAML,TT1: Independent Lab,5,METIC Transplantation Lab,,METIC Transplantation Laboratory,Pasadena,CA,91106-1961,05HL05,,USA,1,,50
+CAMT,TT1: Independent Lab,5,"METIC Immunogenetics Consultants, Inc",,"METIC Immunogenetics Consultants, Inc",Pasadena,CA,91106,558632,,USA,1,,51
+CAOP,OP1: Independent OPO,5,OneLegacy,,OneLegacy,Los Angeles,CA,90012,05P003,,USA,1,,52
+CAPC,TX1: Transplant Hospital,5,Lucile Salter Packard Children's Hosp,,Lucile Salter Packard Children's Hospital at Stanford,Palo Alto,CA,94304,53305,,USA,1,17,53
+CAPM,IT1: Hospital Based Lab,5,Tissue Typing Lab at CPMC,California Pacific Med Ctr,Tissue Typing Laboratory at California Pacific Med Ctr,San Francisco,CA,94115,50047,,USA,1,,54
+CAPM,TX1: Transplant Hospital,5,California Pacific Med Ctr,,California Pacific Medical Center-Van Ness Campus,San Francisco,CA,94109,50047,,USA,1,17,55
+CARC,TX1: Transplant Hospital,5,Riverside Community Hosp,,Riverside Community Hospital,Riverside,CA,92501,50022,,USA,1,18,56
+CARO,OP1: Independent OPO,5,Reg OPA of Southern CA,,Regional Organ Procurement Agency of Southern California,Los Angeles,CA,90064-1824,05P002,,USA,0,,57
+CARZ,TX1: Transplant Hospital,5,Hoag Mem Hosp Presbyterian,,Hoag Memorial Hospital Presbyterian,Newport Beach,CA,92658-6100,50224,,USA,0,18,58
+CASB,TX1: Transplant Hospital,5,Arrowhead Reg. Med. Ctr.,Formerly San Bernardino Co. Med Ctr,Arrowhead Regional Medical Center,Colton,CA,92324-1819,50245,,USA,0,18,59
+CASC,TX1: Transplant Hospital,5,Univ of Southern CA Med Ctr,Los Angeles County,Los Angeles County University of Southern California Medical Center,Los Angeles,CA,90033,50373,,USA,0,18,60
+CASD,IO1: Hospital Based OPO,5,Lifesharing - A Donate Life Org.,,Lifesharing - A Donate Life Organization,San Diego,CA,92108,05P001,,USA,1,,61
+CASD,IT1: Hospital Based Lab,5,Histo and Immunogenetics Lab,UCSD,Histocompatibility and Immunogenetics Laboratory at UCSD,San Diego,CA,92121,50025,,USA,1,,62
+CASD,TX1: Transplant Hospital,5,UCSD Medical Center,,University of California San Diego Medical Center,La Jolla,CA,92037,50025,,USA,1,18,63
+CASF,TX1: Transplant Hospital,5,Univ of CA San Francisco Med Ctr,Moffitt 884,University of California San Francisco Medical Center,San Francisco,CA,94143,50454,,USA,1,17,64
+CASG,TX1: Transplant Hospital,5,Sutter Medical Center Sacramento,,Sutter Medical Center Sacramento,Sacramento,CA,95816,50108,,USA,1,17,65
+CASH,IT1: Hospital Based Lab,5,Histo Lab at Sharp Memorial Hospital,,Histocompatibility Laboratory at Sharp Memorial Hospital,San Diego,CA,92123,50100,,USA,1,,66
+CASH,TX1: Transplant Hospital,5,Sharp Memorial Hospital,,Sharp Memorial Hospital,San Diego,CA,92123-2788,50100,,USA,1,18,67
+CASJ,TX1: Transplant Hospital,5,St Joseph Hospital,,Saint Joseph Hospital,Orange,CA,92868,50069,,USA,1,18,68
+CASM,TX1: Transplant Hospital,5,UC Davis Medical Center,,University of California Davis Medical Center,Sacramento,CA,95817-2201,50599,,USA,1,17,69
+CAST,TT1: Independent Lab,5,Blood Systems Inc ( BloodSource ),,"Vitalant HLA Laboratory, Northern California",Mather,CA,95655-4128,05HL04,,USA,1,,70
+CASU,IT1: Hospital Based Lab,5,Stanford Blood Center,Histocompatibility Lab-Hillview,"Stanford Blood Center, Histocompatibility Lab-Hillview",Palo Alto,CA,94304-1204,50441,,USA,1,,71
+CASU,TX1: Transplant Hospital,5,Stanford Health Care,,Stanford Health Care,Stanford,CA,94305,50441,,USA,1,17,72
+CASV,TX1: Transplant Hospital,5,St. Vincent Medical Center,,St. Vincent Medical Center,Los Angeles,CA,90057,50502,,USA,0,18,73
+CATB,OP1: Independent OPO,5,N. CA Transplant Bank,,Northern California Transplant Bank,San Francisco,CA,99999,,,USA,0,,74
+CATL,TT1: Independent Lab,5,UCLA Immunogenetics Center,,"University of California at Los Angeles, Immunogenetics Center",Los Angeles,CA,90095-1652,05HL03,,USA,1,,75
+CATO,OP1: Independent OPO,5,"TX Foundation of America, San Diego",,"Transplant Foundation of America, San Diego",San Diego,CA,99999,,,USA,0,,76
+CAUC,IT1: Hospital Based Lab,5,UCLA  Histo Lab,,UCLA Histocompatibility Laboratory,Los Angeles,CA,90095,50262,,USA,0,,77
+CAUC,TX1: Transplant Hospital,5,UCLA Medical Center,,University of California at Los Angeles Medical Center,Los Angeles,CA,90095,50262,,USA,1,18,78
+CAUH,TX1: Transplant Hospital,5,Keck Hospital of USC,,Keck Hospital of USC,Los Angeles,CA,90033-4612,50696,,USA,1,18,79
+CAUS,TT1: Independent Lab,5,UCSF Immunogenetics and Tx Lab,,UCSF Immunogenetics and Transplantation Laboratory,San Francisco,CA,94114,50454,,USA,1,,80
+CAWM,TX1: Transplant Hospital,5,Western Medical Center,,Western Medical Center,Santa Ana,CA,92705-3577,50065,,USA,0,18,81
+COCH,TX1: Transplant Hospital,8,Children's Hospital Colorado,,Children's Hospital Colorado,Aurora,CO,80045,63301,,USA,1,15,82
+COHL,TT1: Independent Lab,8,ClinImmune Labs,,ClinImmune Labs,Aurora,CO,80010,64361,,USA,1,,83
+COIA,TT1: Independent Lab,8,Eurofins (Colorado),Donor & Product Testing,Eurofins Donor & Product Testing (Colorado),Centennial,CO,80012,06HL01,,USA,1,,84
+COMH,TX1: Transplant Hospital,8,Memorial Hosp,,Memorial Hospital,Colorado Springs,CO,80909-5599,60022,,USA,0,15,85
+COPM,TX1: Transplant Hospital,8,Centura Transplant,,Centura Transplant,Denver,CO,80210,60064,,USA,1,15,86
+COPV,TX1: Transplant Hospital,8,Poudre Valley Hosp,,Poudre Valley Hospital,Fort Collins,CO,80524,61010,,USA,0,15,87
+CORS,OP1: Independent OPO,8,Donor Alliance,,Donor Alliance,Denver,CO,80230,06P001,,USA,1,,88
+COSL,TX1: Transplant Hospital,8,Presbyterian/ St Luke's Medical Ctr.,,Presbyterian/St Luke's Medical Center,Denver,CO,80218,60014,,USA,1,15,89
+COUC,IT1: Hospital Based Lab,8,Clinical Immunology Lab,,Univ of CO Clinical Immunology Laboratory,Aurora,CO,80045,,,USA,0,,90
+COUC,TX1: Transplant Hospital,8,University of Colorado Hospital/HSC,Anschutz Outpatient Pavilion,University of Colorado Hospital/Health Science Center,Aurora,CO,80045,60024,,USA,1,15,91
+CTHH,IO1: Hospital Based OPO,1,LifeChoice Donor Services,formerly Northeast OPO & Tissue Bank,LifeChoice Donor Service (NorthEast OPO),Hartford,CT,6102,07P001,,USA,0,,92
+CTHH,IT1: Hospital Based Lab,1,Transplant Histo Lab,,Hartford Hospital Transplant Immunology Laboratory,Hartford,CT,06102-5037,70025,,USA,1,,93
+CTHH,TX1: Transplant Hospital,1,Hartford Hospital,,Hartford Hospital,Hartford,CT,06102-5037,70025,,USA,1,1,94
+CTYN,IT1: Hospital Based Lab,1,Histo and Immune Eval Lab,Yale-New Haven Medical Center,Histocompatibility and Immune Evaluation Laboratory at Yale,New Haven,CT,06520-8062,70022,,USA,1,,95
+CTYN,TX1: Transplant Hospital,1,Yale New Haven Hosp,,Yale New Haven Hospital,New Haven,CT,6510,70022,,USA,1,1,96
+DCCH,TX1: Transplant Hospital,2,Children's National Medical Ctr,,Children's National Medical Center,Washington,DC,20010-2970,93300,,USA,1,5,97
+DCGU,IT1: Hospital Based Lab,2,Histo Lab at Georgetown University,,Histocompatibility Laboratory at Georgetown University,Washington,DC,20007,90004,,USA,1,,99
+DCGU,TX1: Transplant Hospital,2,Medstar Georgetown Transplant Institu,,Medstar Georgetown Transplant Institute,Washington,DC,20007,90004,,USA,1,5,100
+DCGW,IT1: Hospital Based Lab,2,Histo Lab at GW,,Histocompatibility Clinical Immunology Lab at George Washington Univ,Washington,DC,20037,90001,,USA,0,,101
+DCGW,TX1: Transplant Hospital,2,George Washington University Hospital,,George Washington University Hospital,Washington,DC,20037,90001,,USA,1,5,102
+DCHU,TX1: Transplant Hospital,2,Howard University Hospital,,Howard University Hospital,Washington,DC,20060,90003,,USA,0,5,103
+DCIL,TT1: Independent Lab,2,MedStar Research Institute,Transplant and Immunogenetics Lab,MedStar Research Institute Transplant and Immunogenetics Laboratory,Hyattsville,MD,20782,09HL01,,USA,0,,104
+DCPH,TX1: Transplant Hospital,2,Providence Hosp,,Providence Hospital,Washington,DC,20017,90006,,USA,0,5,105
+DCTC,OP1: Independent OPO,2,Washington Reg Transplant Community,,Washington Regional Transplant Community,Falls Church,VA,22042,49P003,,USA,1,,106
+DCTL,TT1: Independent Lab,2,Histo and Immunogenetics Lab,Howard Univ Hospital,Histocompatibility and Immunogenetics Lab at Howard University Hospital,Washington,DC,20060-0001,09HL02,,USA,0,,107
+DCWH,TX1: Transplant Hospital,2,Washington Hospital Center,,Washington Hospital Center,Washington,DC,20010,90011,,USA,1,5,108
+DCWR,IT1: Hospital Based Lab,2,Transplant Immunology Laboratory,Walter Reed National Military Med Ctr,Transplant Immunology Lab at Walter Reed National Medical Center - Bethesda,Bethesda,MD,20889,09003F,,USA,1,,109
+DCWR,TX1: Transplant Hospital,2,Walter Reed National Military,Medical Center at Bethesda,Walter Reed National Military Medical Center at Bethesda,Bethesda,MD,20889,09003F,,USA,1,5,110
+DEAI,TX1: Transplant Hospital,2,Alfred I duPont Hospital for Children,,Alfred I duPont Hospital for Children,Wilmington,DE,19803,83300,,USA,1,5,111
+FLAC,TX1: Transplant Hospital,3,John Hopkins All Children's Hospital,,Johns Hopkins All Children's Hospital,St. Petersburg,FL,33701,103300,,USA,1,7,112
+FLBF,TX1: Transplant Hospital,3,Bert Fish Medical Center,,Bert Fish Medical Center,New Smyrna Beach,FL,32168,100014,,USA,0,7,113
+FLCC,TX1: Transplant Hospital,3,Cleveland Clinic Florida Weston,,Cleveland Clinic Florida Weston,Weston,FL,33331,100289,,USA,1,7,114
+FLFH,IO1: Hospital Based OPO,3,OurLegacy,,OurLegacy,Maitland,FL,32751,10P003,,USA,1,,115
+FLFH,IT1: Hospital Based Lab,3,Tissue Typing Lab at Florida Hospital,,Tissue Typing Laboratory at Florida Hospital,Orlando,FL,32803-1273,100007,,USA,1,,116
+FLFH,TX1: Transplant Hospital,3,Florida Hospital Medical Center,,AdventHealth Orlando,Orlando,FL,32803,100007,,USA,1,7,117
+FLFR,TX1: Transplant Hospital,3,Gulf Coast Medical Center,,Gulf Coast Medical Center,Ft Myers,FL,33912,100220,,USA,0,7,118
+FLJM,TX1: Transplant Hospital,3,Jackson Memorial Hospital,,Jackson Memorial Hospital University of Miami School of Medicine,Miami,FL,33136,100022,,USA,1,7,119
+FLJT,IT1: Hospital Based Lab,3,Transplantation and Cellular Immunolo,Shands Jacksonville,Lab for Transplantation and Cellular Immunology at Shands Jacksonville,Jacksonville,FL,32209,100170,,USA,0,,120
+FLJT,TX1: Transplant Hospital,3,Shands Jacksonville,,Shands Jacksonville,Jacksonville,FL,32209,100170,,USA,0,7,121
+FLMC,TX1: Transplant Hospital,3,Miami Childrens Hosp,,Miami Childrens Hospital,Miami,FL,33155,103301,,USA,0,7,122
+FLML,TT1: Independent Lab,3,Univ of Miami Histo Lab,,University of Miami Jackson Memorial Hospital Histocompatibility Testing,Miami,FL,33101,10HL02,,USA,1,,123
+FLMP,OP1: Independent OPO,3,Life Alliance Organ Recovery Agency,,Life Alliance Organ Recovery Agency,Miami,FL,33136,10P002,,USA,1,,124
+FLSF,TT1: Independent Lab,3,LifeLink Transplant Immunology Lab,"LifeLink Foundation, Inc.",LifeLink Transplantation Immunology Laboratory,Tampa,FL,33619,10HL01,,USA,1,,125
+FLSJ,TX1: Transplant Hospital,3,St Josephs Hosp,,St Josephs Hospital,Tampa,FL,33677-4227,100075,,USA,0,7,126
+FLSL,IT1: Hospital Based Lab,3,HLA Lab Mayo Clinic Florida,,HLA Laboratory at Mayo Clinic Florida,Jacksonville,FL,32224,100151,,USA,1,,127
+FLSL,TX1: Transplant Hospital,3,Mayo Clinic Hospital Florida,,Mayo Clinic Hospital Florida,Jacksonville,FL,32224,100151,,USA,1,7,128
+FLSW,OP1: Independent OPO,3,LifeLink of Southwest Florida,,LifeLink of Southwest Florida,Fort Myers,FL,33907-3631,10P005,,USA,0,,129
+FLTG,IT1: Hospital Based Lab,3,Tampa General Hosp Lab,,Tampa General Hospital Lab,Tampa,FL,33601,100128,,USA,0,,130
+FLTG,TX1: Transplant Hospital,3,Tampa General Hospital,,Tampa General Hospital,Tampa,FL,33606,100128,,USA,1,7,131
+FLTO,IT1: Hospital Based Lab,3,Southeastern Comm Blood Ctr,,Southeastern Community Blood Center,Tallahassee,FL,32308,100135,,USA,0,,132
+FLTO,TX1: Transplant Hospital,3,Tallahassee Memorial Hospital,,Tallahassee Memorial Hospital,Tallahassee,FL,32308,100135,,USA,0,7,133
+FLUF,IO1: Hospital Based OPO,3,LifeQuest Organ Recovery Services,,LifeQuest Organ Recovery Services,Gainesville,FL,32606,10P004,,USA,1,,134
+FLUF,IT1: Hospital Based Lab,3,Immunology Transplantation Lab,Shands Medical Lab at Rocky Point,Immunology Transplantation Laboratory/ Shands Hospital,Gainesville,FL,32608,100113,,USA,1,,135
+FLUF,TX1: Transplant Hospital,3,UF Health Shands Hospital,,UF Health Shands Hospital,Gainesville,FL,32610,100113,,USA,1,7,136
+FLUM,TX1: Transplant Hospital,3,University Medical Center,,University Medical Center,Jacksonville,FL,32209-6511,100001,,USA,0,7,137
+FLWC,OP1: Independent OPO,3,LifeLink of Florida,,LifeLink of Florida,Tampa,FL,33619,10P001,,USA,1,,138
+GAEH,TX1: Transplant Hospital,3,Children's Healthcare of Atlanta,at Egleston,Children's Healthcare of Atlanta at Egleston,Atlanta,GA,30322-1062,113300,,USA,1,6,139
+GAEM,IT1: Hospital Based Lab,3,HLA Lab at Emory University Hospital,,HLA Laboratory at Emory University,Atlanta,GA,30322,110010,,USA,1,,140
+GAEM,TX1: Transplant Hospital,3,Emory University Hospital,,Emory University Hospital,Atlanta,GA,30322-1064,110010,,USA,1,6,141
+GAGM,TX1: Transplant Hospital,3,Grady Memorial Hospital,,Grady Memorial Hospital,Atlanta,GA,30303,110079,,USA,0,6,142
+GALL,OP1: Independent OPO,3,LifeLink of Georgia,,LifeLink of Georgia,Norcross,GA,30071,11P002,,USA,1,,143
+GAMC,IO1: Hospital Based OPO,3,Organ and Tissue Donor Svcs,,Organ and Tissue Donor Services at Med College of GA,Augusta,GA,30912-7700,,,USA,0,,144
+GAMC,IT1: Hospital Based Lab,3,Histo Immunology Lab,,Histocompatibility Immunology Laboratory at the Medical College of Georgia,Augusta,GA,30912-4091,110034,,USA,1,,145
+GAMC,TX1: Transplant Hospital,3,"AU Medical Center, Inc.",,"AU Medical Center, Inc.",Augusta,GA,30912-7700,110034,,USA,1,6,146
+GAPH,TX1: Transplant Hospital,3,Piedmont Hospital,,Piedmont Hospital,Atlanta,GA,30309,110083,,USA,1,6,147
+GASJ,IT1: Hospital Based Lab,3,Histocompatibility Lab at St Josephs,,Histocompatibility Laboratory at St Josephs,Atlanta,GA,30342-1701,110082,,USA,0,,148
+GASJ,TX1: Transplant Hospital,3,St. Joseph's Hosp of Atlanta,,Saint Joseph's Hospital of Atlanta,Atlanta,GA,30342-1764,110082,,USA,0,6,149
+GAUH,TX1: Transplant Hospital,3,University Hospital,Georgia Heart Institute,University Hospital,Augusta,GA,30901,110028,,USA,0,6,150
+HIOP,OP1: Independent OPO,6,Legacy of Life Hawaii,,Legacy of Life Hawaii,Honolulu,HI,96817,12P001,,USA,1,,157
+HISF,IT1: Hospital Based Lab,6,Clinical Labs of HI,,Clinical Laboratories of Hawaii,Honolulu,HI,96820,12HL01,,USA,0,,158
+HISF,TX1: Transplant Hospital,6,Hawaii Medical Center East,,Hawaii Medical Center East,Honolulu,HI,96820,120010,,USA,0,17,159
+HITL,TT1: Independent Lab,6,Eurofins (Hawaii),Donor & Product Testing,Eurofins Donor & Product Testing (Hawaii),Honolulu,HI,96817,12HL01,,USA,1,,160
+IAIM,IT1: Hospital Based Lab,8,Histo Lab at Iowa Methodist Med Ctr,,Histocompatibility Laboratory at Iowa Methodist Medical Center,Des Moines,IA,50309,160082,,USA,0,,161
+IAIM,TX1: Transplant Hospital,8,Iowa Methodist Medical Center,,Iowa Methodist Medical Center,Des Moines,IA,50309-1453,160082,,USA,1,12,162
+IAIV,IO1: Hospital Based OPO,8,Iowa Statewide OPO,,Iowa Statewide Organ Procurement Organization,Iowa City,IA,52242,,,USA,0,,163
+IAIV,IT1: Hospital Based Lab,8,Iowa Regional Histo & Immuno Lab,V.A. Medical Center,Iowa Regional Histo & Immunogenetics Laboratory at the V.A. Medical Center,Iowa City,IA,52246,16004F,,USA,1,,164
+IAIV,TX1: Transplant Hospital,8,The University of Iowa Hospitals and,Clinics Transplant Programs,University of Iowa Hospitals and Clinics Transplant Programs,Iowa City,IA,52242-1084,160058,,USA,1,12,165
+IAIV,VA1: Veteran's Hospital,8,Iowa City VA Medical Center,,Iowa City VA Medical Center,Iowa City,IA,52246,16004F,,USA,0,,166
+IAMH,IT1: Hospital Based Lab,8,Histo Lab at Mercy Hosp Med Ctr,,Histocompatibility Laboratory at Mercy Hospital Medical Center,Des Moines,IA,50314,160083,,USA,1,,167
+IAMH,TX1: Transplant Hospital,8,MercyOne Des Moines Transplant Center,MercyOne Des Moines Transplant Center,MercyOne Des Moines Transplant Center,Des Moines,IA,50314-3190,160083,,USA,0,12,168
+IAOP,OP1: Independent OPO,8,Iowa Donor Network,,Iowa Donor Network,North Liberty,IA,52317,16P001,,USA,1,,169
+IAOR,OP1: Independent OPO,8,Iowa Organ Retrieval System,,Iowa Organ Retrieval System,Des Moines,IA,99999,,,USA,0,,170
+ILCH,TX1: Transplant Hospital,7,Advocate Christ Medical Center,,Advocate Christ Medical Center,Oak Lawn,IL,60453,140208,,USA,1,10,171
+ILCL,OP1: Independent OPO,7,Central IL Organ Donation Prg,,Central Illinois Organ Donation Program,Peoria,IL,99999,,,USA,0,,172
+ILCM,TX1: Transplant Hospital,7,Ann & Robert H. Lurie Children's Hosp,of Chicago,Ann & Robert H. Lurie Children's Hospital of Chicago,Chicago,IL,60611,143300,,USA,1,10,173
+ILCR,OP1: Independent OPO,7,Chicago Reg Organ and Tissue Bank,,Chicago Regional Organ and Tissue Bank,Chicago,IL,61612,14OP01,,USA,0,,174
+ILEH,TX1: Transplant Hospital,7,Evanston Hospital,,Evanston Hospital,Evanston,IL,60201,140010,,USA,0,10,175
+ILIP,OP1: Independent OPO,7,Gift of Hope,,Gift of Hope Organ & Tissue Donor Network,Itasca,IL,60143,14P001,,USA,1,,176
+ILLU,IT1: Hospital Based Lab,7,Clinical Histo Lab at Loyola,,Clinical Histocompatibility Laboratory at Loyola University Medical Center,Maywood,IL,60153,140276,,USA,1,,177
+ILLU,TX1: Transplant Hospital,7,Loyola Univ Med Center,,Loyola University Medical Center,Maywood,IL,60153,140276,,USA,1,10,178
+ILLU,VA1: Veteran's Hospital,7,Hines V.A. Medical Center,,Hines Veterans Administration Medical Center,Hines,IL,60141,14007F,,USA,0,,179
+ILMM,IT1: Hospital Based Lab,7,Histo Lab at Memorial Med Ctr,,Histocompatibility Laboratory at Memorial Medical Center,Springfield,IL,62781,140148,,USA,1,,180
+ILMM,TX1: Transplant Hospital,7,Springfield Memorial Hospital,,Springfield Memorial Hospital,Springfield,IL,62781-0001,140148,,USA,1,10,181
+ILNM,IT1: Hospital Based Lab,7,Transplant Immunology Lab,Northwestern Memorial Hospital,Transplant Immunology Laboratory at Northwestern Memorial Hospital,Chicago,IL,60611,140281,,USA,1,,182
+ILNM,TX1: Transplant Hospital,7,Northwestern Memorial Hospital,,Northwestern Memorial Hospital,Chicago,IL,60611,140281,,USA,1,10,183
+ILPL,IT1: Hospital Based Lab,7,Histo Lab at Rush University Med Ctr,,Rush Medical Laboratories Histocompatibility Laboratory,Chicago,IL,60612-3833,140119,,USA,1,,184
+ILPL,TX1: Transplant Hospital,7,Rush University Med Ctr,,Rush University Medical Center,Chicago,IL,60612,140119,,USA,1,10,185
+ILRC,TT1: Independent Lab,7,American Red Cross Blood Svcs,Heart of Illinois Region,American Red Cross Blood Services Heart of Illinois Region,Peoria,IL,61604,14HL06,,USA,0,,186
+ILRL,TT1: Independent Lab,7,Gift of Hope,Organ & Tissue Network Laboratory,Gift of Hope Organ & Tissue Donor Network Laboratory,Itasca,IL,60143,14HL07,,USA,1,,187
+ILSF,TX1: Transplant Hospital,7,OSF St Francis Med Ctr,,OSF Saint Francis Medical Center,Peoria,IL,61637,140067,,USA,1,10,188
+ILSJ,TX1: Transplant Hospital,7,St. Johns Hospital,,St. Johns Hospital,Springfield,IL,62769,140053,,USA,0,10,189
+ILUC,TX1: Transplant Hospital,7,Univ of Chicago Med Ctr,,University of Chicago Medical Center,Chicago,IL,60637,140088,,USA,1,10,190
+ILUI,IT1: Hospital Based Lab,7,Tissue Typing Lab at the Univ. of IL,"Dept of Pathology, MC 750",Tissue Typing Laboratory at University of Illinois,Chicago,IL,60612,140150,,USA,1,,191
+ILUI,TX1: Transplant Hospital,7,University of Illinois Medical Center,,University of Illinois Medical Center,Chicago,IL,60612,140150,,USA,1,10,192
+INCI,TT1: Independent Lab,10,Central Indiana Reg Blood Ctr,,Central Indiana Reg. Blood Center Transplant and Immunology Laboratory,Indianapolis,IN,46208-0206,158078,,USA,1,,193
+INIM,IT1: Hospital Based Lab,10,Histo Lab at Methodist Hospital,,Histocompatibility Laboratory at Methodist Hospital of Indiana,Indianapolis,IN,46206-1367,150056,,USA,1,,194
+INIM,TX1: Transplant Hospital,10,Indiana University Health,,Indiana University Health,Indianapolis,IN,46202,150056,,USA,1,9,195
+INIU,IT1: Hospital Based Lab,10,Tx Immunology and Histo Lab,,Transplant Immunology and Histocompatibility Lab at Indiana University,Indianapolis,IN,46202,150032,,USA,0,,196
+INIU,TX1: Transplant Hospital,10,Indiana University Med Ctr,,Indiana University Medical Center,Indianapolis,IN,46202,150032,,USA,0,9,197
+INLH,IT1: Hospital Based Lab,10,American Red Cross At Ft Wayne,Lutheran Hospital of Indiana,American Red Cross At Fort Wayne,Ft Wayne,IN,46804-1167,150017,,USA,0,,198
+INLH,TX1: Transplant Hospital,10,Lutheran Hosp of Ft Wayne,,Lutheran Hospital of Fort Wayne,Fort Wayne,IN,46804,150017,,USA,1,9,199
+INOP,OP1: Independent OPO,10,Indiana Donor Network,,Indiana Donor Network,Indianapolis,IN,46222,15P001,,USA,1,,200
+INSV,TX1: Transplant Hospital,10,Ascension St. Vincent Hospital,,Ascension St. Vincent Hospital,Indianapolis,IN,46260,150084,,USA,1,9,201
+INTL,TT1: Independent Lab,10,HLA-Vascular Biology Lab,St. Francis Hospital,HLA-Vascular Biology Lab at St. Francis Hospital,Beech Grove,IN,46107,150033,,USA,0,,202
+KSCL,TT1: Independent Lab,8,Cross Clinical Labs,,Cross Clinical Laboratories,Kansas City,MO,64111,178113,,USA,0,,203
+KSFT,TX1: Transplant Hospital,8,St Francis Hosp and Med Ctr,,St Francis Hospital and Medical Center,Topeka,KS,66606,170016,,USA,0,12,204
+KSFW,TX1: Transplant Hospital,8,"Via Christi Hospitals Wichita, Inc.",Transplant Institute,"Via Christi Hospitals Wichita, Inc.",Wichita,KS,67214-3882,170122,,USA,0,12,205
+KSUK,TX1: Transplant Hospital,8,University of Kansas Hospital,,University of Kansas Hospital,Kansas City,KS,66103,170040,,USA,1,12,206
+KYDA,OP1: Independent OPO,11,KY Organ Donor Affiliates,,Kentucky Organ Donor Affiliates,Louisville,KY,40223,18P001,,USA,1,,207
+KYHH,TX1: Transplant Hospital,11,Columbia Audubon Hosp,Formerly Humana Hosp Audubon,Columbia Audubon Hospital,Louisville,KY,40217,180014,,USA,0,9,208
+KYJH,IT1: Hospital Based Lab,11,Histo Lab at Jewish Hospital,,Histocompatibility Laboratory at Jewish Hospital,Louisville,KY,40202,180040,,USA,1,,209
+KYJH,TX1: Transplant Hospital,11,Jewish Hospital,,Jewish Hospital,Louisville,KY,40202-1886,180040,,USA,1,9,210
+KYKC,TX1: Transplant Hospital,11,Norton Children's Hospital,,Norton Children's Hospital,Louisville,KY,40202,180088,,USA,1,9,211
+KYUK,IT1: Hospital Based Lab,11,Immuno Molecular Pathology Lab,,Immuno Molecular Pathology Laboratory at the University of Kentucky,Lexington,KY,40536-0293,180067,,USA,1,,212
+KYUK,TX1: Transplant Hospital,11,Univ of Kentucky Med Ctr,AB Chandler Medical Center,University of Kentucky Medical Center,Lexington,KY,40536,180067,,USA,1,9,213
+KYUL,TT1: Independent Lab,11,Renal Transplant Laboratory,"Univ of Louisville, MDR Bldg. Rm 212A",University of Louisville Renal Transplant Laboratory,Louisville,KY,40202,18HL01,,USA,0,,214
+LACH,TX1: Transplant Hospital,3,Children's Hospital,,Children's Hospital,New Orleans,LA,70118,193300,,USA,1,13,215
+LAIL,TT1: Independent Lab,3,LSU Immunocytogenetics Lab,LSU Medical Center,LSU Immunocytogenetics Laboratory / LSU School of Medicine,New Orleans,LA,70112-2127,19HL02,,USA,0,,216
+LANO,OP1: Independent OPO,3,LSU New Orleans IOPA,,LSU New Orleans OPO,New Orleans,LA,70112-2822,,,USA,0,,217
+LANO,TX1: Transplant Hospital,3,University Hospital,LSU School of Medicine,University Hospital /Louisiana State University School of Medicine,New Orleans,LA,70112,190035,,USA,0,13,218
+LAOC,OP1: Independent OPO,3,Ochsner Organ Bank,,Ochsner Organ Bank,New Orleans,LA,99999,19OP03,,USA,0,,219
+LAOF,IT1: Hospital Based Lab,3,Histo Lab at Ochsner,,Histocompatibility Laboratory at Ochsner Foundation Hosp,New Orleans,LA,70121,190036,,USA,0,,220
+LAOF,TX1: Transplant Hospital,3,Ochsner Foundation Hospital,Ochsner Clinic,Ochsner Foundation Hospital,New Orleans,LA,70121,190036,,USA,1,13,221
+LAOP,OP1: Independent OPO,3,Louisiana Organ Procurement Agency,,Louisiana Organ Procurement Agency,Covington,LA,70433,19P001,,USA,1,,222
+LAOS,OP1: Independent OPO,3,Louisiana Organ Sharing Prog,,Louisiana Organ Sharing Program,Shreveport,LA,99999,19OP01,,USA,0,,223
+LASB,IT1: Hospital Based Lab,3,HLA Lab,,HLA Laboratory at  Mem Med Ctr,New Orleans,LA,70115,190135,,USA,0,,224
+LASB,TX1: Transplant Hospital,3,Lindy Boggs Medical Center,Mercy Campus,Lindy Boggs Medical Center,New Orleans,LA,70119,190135,,USA,0,13,225
+LASM,IT1: Hospital Based Lab,3,Transplant Immunology Lab,,Transplant Immunology Laboratory at Schumpert Med Ctr,Shreveport,LA,71101,190041,,USA,0,,226
+LASM,TX1: Transplant Hospital,3,Schumpert Health System,,Schumpert Health System,Shreveport,LA,71101,190041,,USA,0,13,227
+LASU,IO1: Hospital Based OPO,3,LSU Organ Procurement Organization,,LSU Organ Procurement Organization,Shreveport,LA,71130-3932,190098,,USA,0,,228
+LASU,IT1: Hospital Based Lab,3,HLA Lab at LSU,,HLA Laboratory at Louisiana State University,Shreveport,LA,71130-3932,19HL01,,USA,0,,229
+LASU,TX1: Transplant Hospital,3,Louisiana State Univ Med Ctr,School of Med in Shreveport,Louisiana State University Medical Center Shreveport,Shreveport,LA,71130-3932,190098,,USA,0,13,230
+LATL,TT1: Independent Lab,3,Ochsner HLA Laboratory,Ochsner Health System,Ochsner Histocompatibility and Immunogenetics Laboratory,New Orleans,LA,70121,190036,,USA,1,,231
+LATM,TT1: Independent Lab,3,Histo and Immunogenetics Lab,Tulane Univ School of Medicine,Histocompatibility and Immunogenetics Lab / Tulane Univ School of Medicine,New Orleans,LA,70112,19HL05,,USA,1,,232
+LATU,IT1: Hospital Based Lab,3,Histo and Immunogenetics Lab,,Histocompatibility and Immunogenetics Laboratory at Tulane,New Orleans,LA,70112,190176,,USA,0,,233
+LATU,TX1: Transplant Hospital,3,Tulane Medical Center,,Tulane Medical Center,New Orleans,LA,70112,190176,,USA,1,13,234
+LAWK,TX1: Transplant Hospital,3,Willis-Knighton Medical Center,,Willis-Knighton Medical Center,Shreveport,LA,71103,190111,,USA,1,13,235
+MABI,IT1: Hospital Based Lab,1,Tissue Typing Lab at Beth Israel,Clinical Center 2,Tissue Typing Laboratory at Beth Israel Deaconess Medical Center,Boston,MA,2215,220086,,USA,1,,288
+MABI,TX1: Transplant Hospital,1,Beth Israel Deaconess Med Ctr,,Beth Israel Deaconess Medical Center,Boston,MA,2215,220086,,USA,1,1,289
+MABS,TX1: Transplant Hospital,1,Baystate Medical Center,,Baystate Medical Center,Springfield,MA,01199-0001,220077,,USA,1,1,290
+MABU,TX1: Transplant Hospital,1,Boston Medical Center,,Boston Medical Center,Boston,MA,2118,220031,,USA,1,1,291
+MABV,TX1: Transplant Hospital,1,Boston VA Med Ctr,,Boston Veterans Administration Medical Center,Boston,MA,2130,22010F,,USA,0,1,292
+MACH,TX1: Transplant Hospital,1,Boston Children's Hospital,,Boston Children's Hospital,Boston,MA,2115,223302,,USA,1,1,293
+MAHS,IT1: Hospital Based Lab,1,Tissue Typing Lab,,Tissue Typing Laboratory at Beth Israel Deaconess Med Ctr,Boston,MA,2215,220118,,USA,0,,294
+MAHS,TX1: Transplant Hospital,1,Beth Israel Deaconess Med Ctr,,Beth Israel Deaconess Medical Center West Campus,Boston,MA,2215,220118,,USA,0,1,295
+MALC,TX1: Transplant Hospital,1,Lahey Clinic Med Ctr,,Lahey Clinic Medical Center,Burlington,MA,1805,220171,,USA,1,1,296
+MAMG,IT1: Hospital Based Lab,1,MGH Histocompatibility Laboratory,Massachusetts General Hospital,Histocompatibility Laboratory at Massachusetts General Hospital,Boston,MA,02114-2696,220071,,USA,1,,297
+MAMG,TX1: Transplant Hospital,1,Massachusetts General Hospital,,Massachusetts General Hospital,Boston,MA,02114-2696,220071,,USA,1,1,298
+MANM,IT1: Hospital Based Lab,1,Tufts Medical Center Lab,,Tufts Medical Center Laboratory,Boston,MA,2111,220116,,USA,1,,300
+MANM,TX1: Transplant Hospital,1,Tufts Medical Center,,Tufts Medical Center,Boston,MA,2111,220116,,USA,1,1,301
+MAOB,OP1: Independent OPO,1,New England Organ Bank,,New England Organ Bank,Waltham,MA,2451,22P001,,USA,1,,302
+MAPB,TX1: Transplant Hospital,1,Brigham and Women's Hosp,,Brigham and Women's Hospital,Boston,MA,2115,220110,,USA,1,1,303
+MARC,TT1: Independent Lab,1,American Red Cross HLA Lab,Northeast Region,American Red Cross HLA Laboratory,Dedham,MA,2026,22D830,,USA,0,,304
+MAUM,TX1: Transplant Hospital,1,UMass Memorial Medical Center,,UMass Memorial Medical Center,Worcester,MA,1655,220163,,USA,1,1,305
+MDBC,TX1: Transplant Hospital,2,Johns Hopkins Bayview Med Ctr,,Johns Hopkins Bayview Medical Center,Baltimore,MD,21224-2735,210029,,USA,0,5,306
+MDJH,TX1: Transplant Hospital,2,Johns Hopkins Hospital,,Johns Hopkins Hospital,Baltimore,MD,21287,210009,,USA,1,5,307
+MDNI,TX1: Transplant Hospital,2,Warren Grant Magnuson Clinical Ctr,National Insitutes of Health,Warren Grant Magnuson Clinical Center/National Institutes of Health,Bethesda,MD,20892-0001,219999,,USA,0,5,308
+MDPC,OP1: Independent OPO,2,The Living Legacy Foundation of MD,,The Living Legacy Foundation of Maryland,Baltimore,MD,21227,21P001,,USA,1,,309
+MDRC,TT1: Independent Lab,2,American Red Cross Natl Histo Lab,,American Red Cross National Histocompatibility Laboratory,Baltimore,MD,21201-1595,21HL03,,USA,0,,310
+MDSG,TX1: Transplant Hospital,2,Shady Grove Adventist Hosp,,Shady Grove Adventist Hospital,Rockville,MD,20850-3395,210057,,USA,0,5,311
+MDTL,TT1: Independent Lab,2,Immunogenetics Lab,Johns Hopkins University,Immunogenetics Laboratories at the Johns Hopkins University,Baltimore,MD,21205-2222,21HL01,,USA,1,,312
+MDUM,TX1: Transplant Hospital,2,Univ of Maryland Med System,,University of Maryland Medical System,Baltimore,MD,21201,210002,,USA,1,5,313
+MDWA,TX1: Transplant Hospital,2,Washington Adventist Hosp,,Washington Adventist Hospital,Takoma Park,MD,20912,,,USA,0,5,314
+MEIL,TT1: Independent Lab,1,Immunogenetics Lab,Maine Med Ctr Research Institute,Immunogenetics Laboratory Maine Medical Center Research Institute,South Portland,ME,4106,20HL02,,USA,0,,315
+MEMC,IT1: Hospital Based Lab,1,Immunogenetics Lab,,Immunogenetics Laboratory at ME Med Ctr,Portland,ME,4102,20HL02,,USA,0,,316
+MEMC,TX1: Transplant Hospital,1,Maine Medical Center,,Maine Medical Center,Portland,ME,04102-3175,200009,,USA,1,1,317
+MEOP,OP1: Independent OPO,1,Northern New England Transplant,Alliance,Northern New England Transplant Alliance,Portland,ME,4102,,,USA,0,,318
+METL,TT1: Independent Lab,1,Nordx Immunogenetics Lab,,Nordx Immunogenetics Laboratory,Scarborough,ME,4074,201771,,USA,1,,319
+MIBH,IT1: Hospital Based Lab,10,Histocompatibility Lab - Wm. Beaumont,William Beaumont Hospital,Histocompatibility Laboratory at William Beaumont Hospital,Royal Oak,MI,48073-6769,230130,,USA,1,,320
+MIBH,TX1: Transplant Hospital,10,William Beaumont Hospital,,William Beaumont Hospital,Royal Oak,MI,48073,230130,,USA,1,11,321
+MICH,TX1: Transplant Hospital,10,Children's Hosp of Michigan,,Children's Hospital of Michigan,Detroit,MI,48201-2119,233300,,USA,1,11,322
+MIHF,IT1: Hospital Based Lab,10,Cellular Immunology & Histo Lab,,Cellular Immunology & Histocompatibility at Henry Ford Hospital,Detroit,MI,48202,230053,,USA,1,,323
+MIHF,TX1: Transplant Hospital,10,Henry Ford Hospital,,Henry Ford Hospital,Detroit,MI,48202,230053,,USA,1,11,324
+MIHH,IT1: Hospital Based Lab,10,DMC Univ Labs Histo/Immununogenetics,,DMC University Laboratories - Histo & Immunogenetics Laboratory,Detroit,MI,48201,23HL07,,USA,1,,325
+MIHH,TX1: Transplant Hospital,10,Harper Univ Hospital Detroit Med Ctr,Wayne State University,Harper University Hospital Detroit Medical Center,Detroit,MI,48201,230104,,USA,1,11,326
+MIHM,TX1: Transplant Hospital,10,Hurley Medical Center,,Hurley Medical Center,Flint,MI,48503-5993,230132,,USA,0,11,327
+MIKZ,TX1: Transplant Hospital,10,Borgess Med Ctr,,Borgess Medical Center,Kalamazoo,MI,49048,230117,,USA,0,11,328
+MIMC,TX1: Transplant Hospital,10,Grace Hosp,,Grace Hospital,Detroit,MI,48235,230039,,USA,0,11,329
+MIOP,OP1: Independent OPO,10,Gift of Life Michigan,,Gift of Life Michigan,Ann Arbor,MI,48108,23P001,,USA,1,,330
+MIRI,TT1: Independent Lab,10,Immunohematology and Serology Lab,Michigan State University,Immunohematology and Serology Laboratory at Michigan State University,East Lansing,MI,48824,23HL02,,USA,1,,331
+MISJ,TX1: Transplant Hospital,10,St John Hosp and Med Ctr,,Ascension St. John Hospital,Detroit,MI,48236-2172,230165,,USA,1,11,332
+MISM,TX1: Transplant Hospital,10,Mercy Health Saint Mary’s,,Mercy Health Saint Mary’s,Grand Rapids,MI,49503,230059,,USA,1,11,333
+MITL,TT1: Independent Lab,10,DMC Univ Labs,Immunogenetics Lab,DMC University Laboratories Immunogenetics Laboratory at Harper Hosp,Detroit,MI,48201,23HL07,,USA,0,,334
+MITS,TT1: Independent Lab,10,Gift of Life Michigan Histo Lab,,Gift of Life Michigan - Histocompatibility Laboratory,Ann Arbor,MI,48108,23HL03,,USA,1,,335
+MIUM,IT1: Hospital Based Lab,10,HLA Lab at Univ. of MI,Traver Wood 2,HLA Laboratory at the University of Michigan,Ann Arbor,MI,48105,230046,,USA,1,,336
+MIUM,TX1: Transplant Hospital,10,Univ of Michigan Med Ctr,,University of Michigan Medical Center,Ann Arbor,MI,48109,230046,,USA,1,11,337
+MNAN,TX1: Transplant Hospital,7,Abbott Northwestern Hospital,,Abbott Northwestern Hospital,Minneapolis,MN,55407,240906,,USA,1,11,338
+MNCM,TX1: Transplant Hospital,7,Children's Minnesota,,Children's Minnesota,Minneapolis,MN,55404,243302,,USA,1,11,339
+MNHC,TX1: Transplant Hospital,7,Hennepin County Med Ctr,,Hennepin County Medical Center,Minneapolis,MN,55415,240004,,USA,1,11,340
+MNMC,IT1: Hospital Based Lab,7,Tissue Typing Lab at Mayo Clinic,,Tissue Typing Laboratory at Mayo Clinic,Rochester,MN,55902,240061,,USA,1,,341
+MNMC,TX1: Transplant Hospital,7,Mayo Clinic Hospital Minnesota,,Mayo Clinic Hospital Minnesota,Rochester,MN,55902,240061,,USA,1,11,342
+MNMM,TX1: Transplant Hospital,7,Metropolitan Mt Sinai Med Ctr,,Metropolitan Mount Sinai Medical Center,Minneapolis,MN,55404,240196,,USA,0,11,343
+MNMV,TX1: Transplant Hospital,7,Veterans Admin Med Ctr,,Veterans Administration Medical Center Minneapolis,Minneapolis,MN,55417,24001F,,USA,0,11,344
+MNNN,TT1: Independent Lab,7,Memorial Blood Ctrs of MN,,Memorial Blood Centers of Minnesota,Minneapolis,MN,55404,248045,,USA,0,,345
+MNOP,OP1: Independent OPO,7,LifeSource Upper Midwest OPO,,LifeSource Upper Midwest Organ Procurement Organization,Minneapolis,MN,55411,24P001,,USA,1,,346
+MNRC,OP1: Independent OPO,7,American Red Cross TX Donor Serv,,American Red Cross Transplant Donor Serv,St Paul,MN,99999,24OP02,,USA,0,,347
+MNSM,TX1: Transplant Hospital,7,St Marys Hospital (Mayo Clinic),,Saint Marys Hospital (Mayo Clinic),Rochester,MN,55902,240010,,USA,0,11,348
+MNUM,IT1: Hospital Based Lab,7,Clinical Histo Lab/Univ of MN Med Ctr,,Clinical Histocompatibility Laboratory at University of Minnesota Med Ctr,Minneapolis,MN,55455,240049,,USA,1,,349
+MNUM,TX1: Transplant Hospital,7,Univ. of Minnesota Medical Center,Fairview,"University of Minnesota Medical Center, Fairview",Minneapolis,MN,55454,240049,,USA,1,11,350
+MOBH,TX1: Transplant Hospital,8,Barnes-Jewish Hospital,,Barnes-Jewish Hospital,St. Louis,MO,63110,260032,,USA,1,12,351
+MOCG,TX1: Transplant Hospital,8,Cardinal Glennon Childrens Hosp,,Cardinal Glennon Children's Hospital,St. Louis,MO,63104,263300,,USA,1,12,352
+MOCH,TX1: Transplant Hospital,8,St. Louis Children's Hospital,Washington University Medical Center,St. Louis Children's Hospital at Washington University Medical Center,St. Louis,MO,63110,263301,,USA,1,12,353
+MOCM,TX1: Transplant Hospital,8,Children's Mercy Hospital,,Children's Mercy Hospital,Kansas City,MO,64108-4619,263302,,USA,1,12,354
+MOCV,TX1: Transplant Hospital,8,John Cochran VA Hosp,,John Cochran Veterans Administration Hospital,St Louis,MO,63106,26009F,,USA,0,12,355
+MODU,TX1: Transplant Hospital,8,DePaul Health Ctr,,DePaul Health Center,Bridgeton,MO,63044,260104,,USA,0,12,356
+MOHL,TT1: Independent Lab,8,HLA Lab Barnes Jewish Hosp,MS 90.23.335,HLA Laboratory at Barnes Jewish Hospital,St Louis,MO,63110,260014,,USA,1,,357
+MOJM,TX1: Transplant Hospital,8,St Johns Mercy Med Ctr,,St Johns Mercy Medical Center,St Louis,MO,63141-8277,260020,,USA,0,12,358
+MOLH,TX1: Transplant Hospital,8,Saint Luke's Hospital of Kansas City,,St Luke's Hospital of Kansas City,Kansas City,MO,64111-8277,260138,,USA,1,12,359
+MOMA,OP1: Independent OPO,8,Mid-America Transplant Svcs,,Mid-America Transplant Services,St Louis,MO,63110,26P002,,USA,1,,360
+MOMM,TX1: Transplant Hospital,8,Menorah Med Ctr,,Menorah Medical Center,Kansas City,MO,64110,260112,,USA,0,12,361
+MORH,TX1: Transplant Hospital,8,Research Medical Center,,Research Medical Center,Kansas City,MO,64132,260027,,USA,1,12,362
+MOSJ,TX1: Transplant Hospital,8,St Johns Reg Med Ctr,,St Johns Regional Medical Center,Joplin,MO,64804-1695,260001,,USA,0,12,363
+MOSL,IT1: Hospital Based Lab,8,St. Louis University HLA Laboratory,,St. Louis University HLA Laboratory,St. Louis,MO,63110-0250,260105,,USA,1,,364
+MOSL,TX1: Transplant Hospital,8,SSM Health Saint Louis University Hos,,SSM Health Saint Louis University Hospital,St. Louis,MO,63104,260105,,USA,1,12,365
+MOTL,TT1: Independent Lab,8,MO IL Reg Blood Svc,American Red Cross,Missouri Illinois Regional Blood Service,St Louis,MO,63108,26HL02,,USA,0,,366
+MOUM,IT1: Hospital Based Lab,8,University of Missouri Histo Lab,,University of Missouri Histocompatibility Laboratory,Columbia,MO,65212,260141,,USA,0,,367
+MOUM,TX1: Transplant Hospital,8,Univ of Missouri Hosp and Clinic,,University of Missouri Hospital and Clinics,Columbia,MO,65201,260141,,USA,1,12,368
+MSOP,OP1: Independent OPO,3,Mississippi Organ Recovery Agency,,Mississippi Organ Recovery Agency,Flowood,MS,39232,25P001,,USA,1,,369
+MSUM,IO1: Hospital Based OPO,3,Mississippi OPA,,Mississippi Organ Procurement Agency,Jackson,MS,39216-4505,,,USA,0,,370
+MSUM,IT1: Hospital Based Lab,3,Univ of MS Tissue Typing Laboratory,,Tissue Typing Laboratory of the University of Mississippi,Jackson,MS,39216-4505,250001,,USA,1,,371
+MSUM,TX1: Transplant Hospital,3,Univ of MS Med Ctr,,University of Mississippi Medical Center,Jackson,MS,39216-4505,250001,,USA,1,8,372
+MWKC,TT1: Independent Lab,8,Midwest Transplant Network Histo Lab,,Midwest Transplant Network Histocompatibility Laboratory Westwood,Westwood,KS,66205-1867,26HL01,,USA,1,,373
+MWOB,OP1: Independent OPO,8,Midwest Transplant Network,,Midwest Transplant Network,Westwood,KS,66205,17P001,,USA,1,,374
+MWTL,TT1: Independent Lab,8,Midwest Transplant Network Lab,,Midwest Transplant Network Histocompatibility and Immunogenetics Laboratory,Wichita,KS,67214,26HL01,,USA,0,,375
+NCBG,IO1: Hospital Based OPO,11,Carolina LifeCare,,Carolina LifeCare,Winston Salem,NC,27103,34P002,,USA,0,,376
+NCBG,TX1: Transplant Hospital,11,Wake Forest Baptist Medical Center,,Wake Forest Baptist Medical Center,Winston-Salem,NC,27157,340047,,USA,1,6,377
+NCCM,IO1: Hospital Based OPO,11,LifeShare Carolinas,,LifeShare Carolinas,Charlotte,NC,28208,34P003,,USA,1,,378
+NCCM,IT1: Hospital Based Lab,11,Immunology Lab,Carolinas Medical Center/CHS Core Lab,Immunology Laboratory at Carolinas Medical Center,Charlotte,NC,28208,340113,,USA,1,,379
+NCCM,TX1: Transplant Hospital,11,Carolinas Medical Center,,Carolinas Medical Center,Charlotte,NC,28203,340113,,USA,1,6,380
+NCDU,IT1: Hospital Based Lab,11,Clinical Transplantation Immunology,Laboratory,Clinical Transplantation Immunology Laboratory at Duke University Med. Ctr.,Durham,NC,27710,340721,,USA,1,,381
+NCDU,TX1: Transplant Hospital,11,Duke University Hospital,,Duke University Hospital,Durham,NC,27710,340030,,USA,1,6,382
+NCDU,VA1: Veteran's Hospital,11,Durham VA Medical Center,,Durham VA Medical Center,Durham,NC,99999,34012F,,USA,0,,383
+NCDV,TT1: Independent Lab,11,Durham VA Med Ctr Tx Lab,,Durham Veterans Administration Medical Center Transplantation Laboratory,Durham,NC,27705,34012F,,USA,0,,384
+NCEC,IT1: Hospital Based Lab,11,Histo Lab at Pitt Co. Memorial Hosp.,,Histocompatibility Laboratory at Vidant Medical Center,Greenville,NC,27834,340040,,USA,1,,385
+NCEC,TX1: Transplant Hospital,11,Vidant Medical Center,,Vidant Medical Center,Greenville,NC,27834,340040,,USA,1,6,386
+NCMH,IT1: Hospital Based Lab,11,Histo Lab at UNC Hospitals,McLendon Clinical Laboratories,Histocompatibility Laboratory at UNC Hospitals,Chapel Hill,NC,27514,340061,,USA,1,,387
+NCMH,TX1: Transplant Hospital,11,UNC Hospitals,UNC Comprehensive Transplant Ctr.,University of North Carolina Hospitals,Chapel Hill,NC,27514-4220,340061,,USA,1,6,388
+NCMI,TT1: Independent Lab,11,HLA/Immun. Lab at Wake Forest Univ.,Health Sciences,HLA/ Immunogenetics Laboratory Wake Forest University Health Sciences,Winston-Salem,NC,27103,34HL01,,USA,0,,389
+NCNC,OP1: Independent OPO,11,HonorBridge,,HonorBridge,Greenville,NC,27858,34P001,,USA,1,,390
+NDDH,TX1: Transplant Hospital,7,Dakota Heartland Health System,,Dakota Heartland Health System,Fargo,ND,58103,350004,,USA,0,11,391
+NDMC,TX1: Transplant Hospital,7,Sanford Bismarck Medical Center,,Sanford Bismarck Medical Center,Bismarck,ND,58501-5525,350015,,USA,1,11,392
+NDSL,TX1: Transplant Hospital,7,Sanford Medical Center Fargo,,Sanford Medical Center Fargo,Fargo,ND,58122,350011,,USA,1,11,393
+NDTL,TT1: Independent Lab,7,Sanford Histocompatibility Laboratory,,Sanford Histocompatibility Laboratory,Bismarck,ND,58506-5505,35HL01,,USA,1,5,394
+NDTS,TT1: Independent Lab,7,Sanford Medical Ctr Fargo - Histo Lab,,Sanford Clinic - Fargo Histocompatibility Laboratory,Fargo,ND,58122,358029,,USA,1,,395
+NEBM,TX1: Transplant Hospital,8,BryanLGH Medical Center East,,BryanLGH Medical Center East,Lincoln,NE,68506-1299,280003,,USA,0,12,396
+NECM,TX1: Transplant Hospital,8,Nebraska Health System,Clarkson Hospital,Nebraska Health System Clarkson Hospital,Omaha,NE,68198-7400,280088,,USA,0,12,397
+NEOB,TT1: Independent Lab,1,New England Organ Bank Tissue Lab,,New England Organ Bank Tissue Typing Laboratory,Boston,MA,02115-6195,22HL01,,USA,0,,398
+NEOR,OP1: Independent OPO,8,Nebraska Organ Recovery System,,Live On Nebraska,Omaha,NE,68105,28P001,,USA,1,,399
+NESJ,TX1: Transplant Hospital,8,St Joseph Hosp,At Creighton Univ Med Ctr,Saint Joseph Hospital at Creighton University Medical Center,Omaha,NE,68131,280030,,USA,0,12,400
+NEUN,IT1: Hospital Based Lab,8,Molecular Diagnostics Lab at NHS,,Molecular Diagnostics Laboratory at The Nebraska Medical Center,Omaha,NE,68198-5454,280013,,USA,1,,401
+NEUN,TX1: Transplant Hospital,8,The Nebraska Medical Center,University Hospital,The Nebraska Medical Center,Omaha,NE,68105,280013,,USA,1,12,402
+NHDH,TX1: Transplant Hospital,1,Mary Hitchcock Memorial Hosp,,Mary Hitchcock Memorial Hospital,Lebanon,NH,03756-0001,300003,,USA,1,1,403
+NJBI,TX1: Transplant Hospital,2,Newark Beth Israel Med Ctr,,Newark Beth Israel Medical Center,Newark,NJ,7112,310002,,USA,1,3,404
+NJHK,TX1: Transplant Hospital,2,Hackensack University Medical Center,,Hackensack University Medical Center,Hackensack,NJ,07601-1991,310001,,USA,1,3,405
+NJLL,IT1: Hospital Based Lab,2,Tissue Typing Lab,,Tissue Typing Laboratory at Our Lady of Lourdes Medical Center,Camden,NJ,8103,310029,,USA,0,,406
+NJLL,TX1: Transplant Hospital,2,Virtua Our Lady of Lourdes Hospital,,Virtua Our Lady of Lourdes Hospital,Camden,NJ,08103-3117,310029,,USA,1,3,407
+NJRW,TX1: Transplant Hospital,2,Robert Wood Johnson University Hosp,,Robert Wood Johnson University Hospital,New Brunswick,NJ,8901,310038,,USA,1,3,408
+NJSB,TX1: Transplant Hospital,2,St Barnabas Medical Center,,Saint Barnabas Medical Center,Livingston,NJ,7039,310076,,USA,1,3,409
+NJTL,TT1: Independent Lab,2,NJ Organ and Tissue Sharing Network,Transplant Laboratory,New Jersey Organ and Tissue Sharing Network Transplant Laboratory,New Providence,NJ,7974,31HL01,,USA,1,,410
+NJTO,OP1: Independent OPO,2,NJ Organ and Tissue Sharing Network,,New Jersey Organ and Tissue Sharing Network OPO,New Providence,NJ,7974,31P001,,USA,1,,411
+NJUH,IT1: Hospital Based Lab,2,Tissue Typing Lab,University Hospital,Tissue Typing Laboratory at NJ Univ Hosp,Newark,NJ,7103,310119,,USA,0,,412
+NJUH,TX1: Transplant Hospital,2,University Hospital,,University Hospital,Newark,NJ,07103-2406,310119,,USA,1,3,413
+NMAQ,IT1: Hospital Based Lab,5,Histo Lab,,Histocompatibility Laboratory at Univ of NM,Albuquerque,NM,87106,320001,,USA,0,,414
+NMAQ,TX1: Transplant Hospital,5,University Hospital,Univ of New Mexico HSC,"University Hospital, University of New Mexico Health Sciences Center",Albuquerque,NM,87106-3809,320001,,USA,1,15,415
+NMOP,OP1: Independent OPO,5,New Mexico Donor Services,,New Mexico Donor Services,Albuquerque,NM,87102,32P001,,USA,1,,416
+NMPH,IT1: Hospital Based Lab,5,Histo Lab,,Histocompatibility Laboratory of Presbyterian Hosp,Albuquerque,NM,87125-6666,320021,,USA,0,,417
+NMPH,TX1: Transplant Hospital,5,Presbyterian Hospital,,Presbyterian Hospital,Albuquerque,NM,87106,320021,,USA,1,15,418
+NMTL,TT1: Independent Lab,5,TriCore Reference Laboratories,Regional Lab Corporation,Regional Lab Corp/TriCore Reference Laboratories,Albuquerque,NM,87102,32HL01,,USA,1,,419
+NVGL,TT1: Independent Lab,5,"Nevada Donor Network, Immunogenetics",,"Nevada Donor Network, Immunogenetics Laboratory in Nevada",Las Vegas,NV,89104,29D653,,USA,1,,420
+NVHH,TX1: Transplant Hospital,5,Sunrise Hosp and Medical Center,,Sunrise Hospital and Medical Center,Las Vegas,NV,89109,290003,,USA,0,15,421
+NVLV,OP1: Independent OPO,5,Nevada Donor Network,,Nevada Donor Network,Las Vegas,NV,89104,29P001,,USA,1,,422
+NVUM,TX1: Transplant Hospital,5,University Med Ctr of Southern NV,,University Medical Center of Southern Nevada,Las Vegas,NV,89102,290007,,USA,1,15,423
+NYAL,TT1: Independent Lab,9,Transplantation Immunology Laboratory,at the Albany Medical College,Transplantation Immunology Laboratory of the Albany Medical College,Albany,NY,12208,33HL05,,USA,1,,424
+NYAM,IT1: Hospital Based Lab,9,Histo Lab at Albany Med Ctr,,Transplantation Immunology and Histocompatibility Laboratory at Albany,Albany,NY,12208,330013,,USA,0,,425
+NYAM,TX1: Transplant Hospital,9,Albany Med Center Hospital,,Albany Medical Center Hospital,Albany,NY,12208,330013,,USA,1,2,426
+NYAP,OP1: Independent OPO,9,Ctr for Donation and Transplant,Formerly OPO of Albany Med College,Center for Donation and Transplant,Albany,NY,12203,33P004,,USA,1,,427
+NYBC,TX1: Transplant Hospital,9,Childrens Hosp of Buffalo,,Childrens Hospital of Buffalo,Buffalo,NY,14222,333300,,USA,0,2,428
+NYBU,IT1: Hospital Based Lab,9,Transplant Immunology Lab,at Buffalo General Hospital,Transplant Immunology Laboratory at Buffalo General Hospital,Buffalo,NY,14203,335375,,USA,0,,429
+NYBU,TX1: Transplant Hospital,9,Buffalo General Hosp/Children's Hosp,,Buffalo General Hospital/ Children's Hospital,Buffalo,NY,14203,330005,,USA,0,2,430
+NYBU,VA1: Veteran's Hospital,9,Buffalo VA Medical Center,,Buffalo Veterans Administration Medical Center,Buffalo,NY,14215,33012F,,USA,0,,431
+NYCP,IT1: Hospital Based Lab,9,Immunogenetics Lab,at Columbia Univ. Med. Ctr.,Immunogenetics Laboratory at Columbia Presbyterian Medical Center,New York,NY,10032-3784,330012,,USA,1,,433
+NYCP,TX1: Transplant Hospital,9,New York-Presbyterian/Columbia,,NY Presbyterian Hospital/Columbia Univ. Medical Center,New York,NY,10032,330012,,USA,1,2,434
+NYDP,OP1: Independent OPO,9,Gift of Life OPA,,Gift of Life OPA,Woodside,NY,99999,,,USA,0,,435
+NYDS,IT1: Hospital Based Lab,9,Transplantation Immunology Lab,Downstate Medical Center,Transplantation Immunology Laboratory at Brooklyn,Brooklyn,NY,11203-2098,330350,,USA,1,,436
+NYDS,TX1: Transplant Hospital,9,SUNY Downstate Medical Center,,"State University of New York, Downstate Medical Center",Brooklyn,NY,11203-2098,330350,,USA,1,2,437
+NYEC,TX1: Transplant Hospital,9,Erie County Medical Center,,Erie County Medical Center,Buffalo,NY,14215-3098,330219,,USA,1,2,438
+NYEL,TT1: Independent Lab,9,Erie County Histo Lab,Erie County Med Center,Erie County Histocompatiblity Laboratory Erie County Medical Center,Buffalo,NY,14215,33HL03,,USA,0,,439
+NYFL,IO1: Hospital Based OPO,9,Finger Lakes Donor Recovery Network,,Finger Lakes Donor Recovery Network,Rochester,NY,14623,33P005,,USA,1,,440
+NYFL,IT1: Hospital Based Lab,9,Tissue Typing Lab at Strong Mem Hosp,,Tissue Typing Laboratory at Strong Memorial Hospital,Rochester,NY,14642-8410,330285,,USA,1,,441
+NYFL,TX1: Transplant Hospital,9,Strong Memorial Hospital,Univ of Rochester Medical Center,"Strong Memorial Hospital, University of Rochester Medical Center",Rochester,NY,14642-8410,330285,,USA,1,2,442
+NYIL,TT1: Independent Lab,9,Immunogenetics Lab/ Rogosin Institute,,Immunogenetics Lab / The Rogosin Institute,New York,NY,10021,33HL04,,USA,1,,443
+NYMA,IT1: Hospital Based Lab,9,Transplant Immunology Lab,,Transplant Immunology Laboratory at Montefiore Medical Center,Bronx,NY,10467-2490,330059,,USA,1,,444
+NYMA,TX1: Transplant Hospital,9,Montefiore Medical Center,,Montefiore Medical Center,Bronx,NY,10467-2490,330059,,USA,1,2,445
+NYMS,TX1: Transplant Hospital,9,Mount Sinai Med Center,,Mount Sinai Medical Center,New York,NY,10029,330024,,USA,1,2,446
+NYNS,TX1: Transplant Hospital,9,North Shore University Hospital,,North Shore University Hospital/Northwell Health,Manhasset,NY,11030,330106,,USA,1,2,447
+NYNY,TX1: Transplant Hospital,9,New York-Presbyterian/Weill Cornell,Medical Center,New York-Presbyterian Hospital/Weill Cornell Medical Center,New York,NY,10065,330101,,USA,1,2,448
+NYRC,OP1: Independent OPO,9,American Red Cross,,American Red Cross,Syracuse,NY,13202,33OP04,,USA,0,,449
+NYRT,OP1: Independent OPO,9,LiveOnNY,,LiveOnNY,Long Island City,NY,11101,33P003,,USA,1,,450
+NYSB,IO1: Hospital Based OPO,9,Long Island Tx Prg,,Long Island Transplant Program,Stony Brook,NY,11794-8192,,,USA,0,,451
+NYSB,IT1: Hospital Based Lab,9,Histo and Immunogenetics Lab,Stony Brook University Hospital,Histocompatibility and Immunogenetics Laboratory at Stony Brook,Stony Brook,NY,11794-8192,330393,,USA,1,,452
+NYSB,TX1: Transplant Hospital,9,University Hosp of SUNY,,University Hospital of State University of New York at Stony Brook,Stony Brook,NY,11794,330393,,USA,1,2,453
+NYSL,TX1: Transplant Hospital,9,St Luke's Roosevelt Hosp Ctr,,St. Luke's Roosevelt Hospital Center,New York,NY,10025,330046,,USA,0,2,454
+NYSP,TT1: Independent Lab,9,SUNY HSC Histo Lab at Syracuse,,SUNY Health Science Center at Syracuse Histocompatibility Laboratory,Syracuse,NY,13210,330241,,USA,1,,455
+NYUC,TX1: Transplant Hospital,9,NYU Langone Health,,NYU Langone Health,New York,NY,10016,330214,,USA,1,2,456
+NYUM,TX1: Transplant Hospital,9,SUNY Upstate Medical University,,State University of New York Upstate Medical University,Syracuse,NY,13210,330241,,USA,1,2,457
+NYWC,IT1: Hospital Based Lab,9,Clinical Lab at Westchester,Medical Center,Clinical Laboratory Grasslands Reservation at Westchester Medical Ctr.,Valhalla,NY,10595-1689,330234,,USA,1,,458
+NYWC,TX1: Transplant Hospital,9,Westchester Medical Center,The Transplant Center,Westchester Medical Center,Valhalla,NY,10595-1689,330234,,USA,1,2,459
+NYWN,OP1: Independent OPO,9,Upstate NY Transplant Svcs,,Upstate New York Transplant Services Inc,Williamsville,NY,14221-6013,33P001,,USA,1,,460
+OHAC,TX1: Transplant Hospital,10,Akron City Hospital,Summa Health System,Akron City Hospital,Akron,OH,44309,360020,,USA,0,9,461
+OHAL,TT1: Independent Lab,10,Allogen Laboratories,The Cleveland Clinic Foundation,"Allogen Laboratories, The Cleveland Clinic Foundation",Cleveland,OH,44195,36HL07,,USA,1,,462
+OHCA,TX1: Transplant Hospital,10,Childrens Hosp Med Ctr of Akron,,Childrens Hospital Medical Center of Akron,Akron,OH,44308-1062,363303,,USA,0,9,463
+OHCC,IT1: Hospital Based Lab,10,Histo Lab,,Histocompatibility Laboratory at the Cleveland Clinic,Cleveland,OH,44195,360180,,USA,0,,464
+OHCC,TX1: Transplant Hospital,10,Cleveland Clinic Foundation,,The Cleveland Clinic Foundation,Cleveland,OH,44195-0001,360180,,USA,1,9,465
+OHCH,TX1: Transplant Hospital,10,Nationwide Children's Hospital,,Nationwide Children's Hospital,Columbus,OH,43205,363305,,USA,1,9,466
+OHCM,TX1: Transplant Hospital,10,Children's Hosp Med Ctr,,Children's Hospital Medical Center,Cincinnati,OH,45229-3039,363300,,USA,1,9,467
+OHCO,IT1: Hospital Based Lab,10,Tissue Typing Lab,University of Toledo Medical Center,Tissue Typing Laboratory at University of Toledo Medical Center,Toledo,OH,43614-0008,360048,,USA,1,,468
+OHCO,TX1: Transplant Hospital,10,University of Toledo Medical Center,,University of Toledo Medical Center,Toledo,OH,43614-2598,360048,,USA,1,9,469
+OHLB,OP1: Independent OPO,10,Lifebanc,,Lifebanc,Cleveland,OH,44128-5919,36P002,,USA,1,,470
+OHLC,OP1: Independent OPO,10,Life Connection of Ohio,,Life Connection of Ohio,Maumee,OH,43537-9102,36P001,,USA,1,,471
+OHLP,OP1: Independent OPO,10,Lifeline of Ohio,,Lifeline of Ohio,Columbus,OH,43212,36P005,,USA,1,,472
+OHMV,IO1: Hospital Based OPO,10,Miami Valley Hospital OPO,,Miami Valley Hospital OPO,Dayton,OH,45409-2615,36P004,,USA,0,,473
+OHMV,IT1: Hospital Based Lab,10,Community Blood Center,,Community Blood Center HLA Lab,Dayton,OH,45402,36HL06,,USA,0,,474
+OHMV,TX1: Transplant Hospital,10,Miami Valley Hosp,,Miami Valley Hospital,Dayton,OH,45409,360051,,USA,0,9,475
+OHNW,OP1: Independent OPO,10,Life Connection of NW Ohio,,Life Connection of Northwestern Ohio,Maumee,OH,43537,36P001,,USA,0,,476
+OHOU,IT1: Hospital Based Lab,10,Clinical Histo Lab at OSU,,Clinical Histocompatibility Lab at Ohio State University Medical Center,Columbus,OH,43210,360085,,USA,1,,478
+OHOU,TX1: Transplant Hospital,10,Ohio State Univ Med Ctr,,Ohio State University Medical Center,Columbus,OH,43210,360085,,USA,1,9,479
+OHOV,OP1: Independent OPO,10,LifeCenter Organ Donor Network,,LifeCenter Organ Donor Network,Cincinnati,OH,45202,36P003,,USA,1,,480
+OHSE,TX1: Transplant Hospital,10,St Elizabeth Health Ctr,,St. Elizabeth Health Center,Youngstown,OH,44501,360064,,USA,0,9,481
+OHTC,TX1: Transplant Hospital,10,The Christ Hospital,,The Christ Hospital,Cincinnati,OH,45219-2906,360163,,USA,1,9,482
+OHUC,IT1: Hospital Based Lab,10,Hoxworth Transplantation Lab,,Hoxworth Blood Center Transplantation Immunology Laboratory,Cincinnati,OH,45267-0055,360003,,USA,1,,483
+OHUC,TX1: Transplant Hospital,10,University of Cincinnati  Medical Cen,,University of Cincinnati  Medical Center,Cincinnati,OH,45267,360003,,USA,1,9,484
+OHUH,IT1: Hospital Based Lab,10,Histo Lab at Univ. Hosp of Cleveland,,Histocompatibility Laboratory at University Hospitals of Cleveland,Cleveland,OH,44106,360137,,USA,1,,485
+OHUH,TX1: Transplant Hospital,10,University Hosp of Cleveland,,University Hospitals of Cleveland,Cleveland,OH,44106,360137,,USA,1,9,486
+OKBC,TX1: Transplant Hospital,4,Integris Baptist Med Ctr,,Integris Baptist Medical Center,Oklahoma City,OK,73112-4481,370028,,USA,1,13,487
+OKCI,TT1: Independent Lab,4,HA Chapman Inst of Med Genetics,,H.A. Chapman Institute of Medical Genetics,Tulsa,OK,74135,376699,,USA,0,,488
+OKCM,TX1: Transplant Hospital,4,Children's Hosp of Oklahoma,,Children's Hospital of Oklahoma,Oklahoma City,OK,73104,370093,,USA,0,13,489
+OKHM,IO1: Hospital Based OPO,4,Hillcrest Med Ctr OPO,,Hillcrest Medical Center OPO,Tulsa,OK,74104,37P001,,USA,0,,490
+OKHM,TX1: Transplant Hospital,4,Hillcrest Med Ctr,,Hillcrest Medical Center,Tulsa,OK,74104,370001,,USA,0,13,491
+OKMD,IT1: Hospital Based Lab,4,HLA Lab at OU Medical Center,,HLA Laboratory at OU Medical Center,Oklahoma City,OK,73104,370093,,USA,1,13,492
+OKMD,TX1: Transplant Hospital,4,OU Medical Center,,OU Medical Center,Oklahoma City,OK,73104,370093,,USA,1,13,493
+OKOP,OP1: Independent OPO,4,LifeShare Transplant Donor Svcs of OK,,LifeShare Transplant Donor Services of Oklahoma,Oklahoma City,OK,73132-5213,37P002,,USA,1,,494
+OKSA,IT1: Hospital Based Lab,4,Tissue Typing Lab,,Tissue Typing Laboratory at St Anthony Hosp,Oklahoma City,OK,73102,370037,,USA,0,,495
+OKSA,TX1: Transplant Hospital,4,St Anthony Hospital,,St. Anthony Hospital,Oklahoma City,OK,73101,370037,,USA,0,13,496
+OKSF,IT1: Hospital Based Lab,4,Histocompatibility Lab at St. Francis,,Saint Francis Hospital Histocompatibility Laboratory,Tulsa,OK,74136-1902,370091,,USA,1,,497
+OKSF,TT1: Independent Lab,4,Histo Lab (withdrawn),,Histocompatibility Laboratory at St Francis,Tulsa,OK,74136,370091,,USA,0,,498
+OKSF,TX1: Transplant Hospital,4,Saint Francis Hospital,,Saint Francis Hospital,Tulsa,OK,74136,370091,,USA,0,13,499
+OKSJ,TX1: Transplant Hospital,4,St. John Medical Center,,St John Medical Center,Tulsa,OK,74104,370114,,USA,1,13,500
+ORGS,TX1: Transplant Hospital,6,Legacy Good Samaritan Hosp Med Ctr,,Legacy Good Samaritan Hospital and Medical Center,Portland,OR,97210,380017,,USA,1,16,501
+ORPM,TX1: Transplant Hospital,6,Providence Portland Medical Center,,Providence Portland Medical Center,Portland,OR,97213,380061,,USA,0,16,502
+ORRC,TT1: Independent Lab,6,Pacific NW Reg Blood Svcs,American Red Cross,Pacific Northwest Regional Blood Services American Red Cross,Portland,OR,97229,388091,,USA,0,,503
+ORSV,TX1: Transplant Hospital,6,Providence St. Vincent Medical Center,,Providence St. Vincent Medical Center,Portland,OR,97225,380004,,USA,1,16,504
+ORUO,IO1: Hospital Based OPO,6,Pacific NW Transplant Bank,,Pacific Northwest Transplant Bank,Portland,OR,97201-4943,38P001,,USA,1,,505
+ORUO,IT1: Hospital Based Lab,6,Lab of Immunogenetics and Tx,Oregon Health &Science University,Laboratory of Immunogenetics and Transplantation at OHSU,Portland,OR,97201-4942,380009,,USA,1,,506
+ORUO,TX1: Transplant Hospital,6,Oregon Health and Science University,Portland VA Medical Center,Oregon Health and Science University,Portland,OR,97239-3011,380009,,USA,1,16,507
+ORUO,VA1: Veteran's Hospital,6,Portland VA Medical Center,,Portland Veterans Administration Medical Center,Portland,OR,97239-2964,38003F,,USA,0,,508
+PAAE,IT1: Hospital Based Lab,2,Immunology and Organ Preservation Lab,Albert Einstein Medical Center,Immunology and Organ Preservation Lab at Albert Einstein Medical Center,Philadelphia,PA,19141,390142,,USA,1,,509
+PAAE,TX1: Transplant Hospital,2,Albert Einstein Med Ctr,,Albert Einstein Medical Center,Philadelphia,PA,19141,390142,,USA,1,4,510
+PAAG,IT1: Hospital Based Lab,2,Histo Lab /Allegheny General Hospital,,Histocompatibility Laboratory at Allegheny General Hospital,Pittsburgh,PA,15212,390050,,USA,1,,511
+PAAG,TX1: Transplant Hospital,2,Allegheny General Hosp,,Allegheny General Hospital,Pittsburgh,PA,15212,390050,,USA,1,4,512
+PACH,IT1: Hospital Based Lab,2,Clinical Laboratory Services,Histocompatibility Laboratories,Clinical Laboratory Services at the Childrens Hospital of Pittsburgh,Pittsburgh,PA,15213,39HL01,,USA,0,,513
+PACH,TX1: Transplant Hospital,2,UPMC Children's Hosp. of Pittsburgh,Children's Hospital Drive,UPMC Children's Hospital of Pittsburgh,Pittsburgh,PA,15224,393302,,USA,1,4,514
+PACP,TX1: Transplant Hospital,2,Childrens Hosp of Philadelphia,,Children's Hospital of Philadelphia,Philadelphia,PA,19104,393303,,USA,1,4,515
+PADV,OP1: Independent OPO,2,Gift of Life Donor Program,,Gift of Life Donor Program,Philadelphia,PA,19123,39P001,,USA,1,,516
+PAGM,IT1: Hospital Based Lab,2,Tissue Typing Lab,Geisinger Medical Center,Tissue Typing Laboratory at Geisinger Medical Center,Danville,PA,17822,390006,,USA,0,,517
+PAGM,TX1: Transplant Hospital,2,Geisinger Medical Center,,Geisinger Medical Center,Danville,PA,17822,390006,,USA,1,4,518
+PAHE,IT1: Hospital Based Lab,2,Histo and Clinical Immunology Lab,Hershey Medical Center,Histocompatibility and Clinical Immunology Lab at Hershey Medical Center,Hershey,PA,17033,390256,,USA,1,,519
+PAHE,TX1: Transplant Hospital,2,Penn State Milton S Hershey Med Ctr,Pennsylvania State University,Penn State Milton S Hershey Medical Center,Hershey,PA,17033,390256,,USA,1,4,520
+PAHH,TX1: Transplant Hospital,2,UPMC Pinnacle,,Pinnacle Health System at Harrisburg Hospital,Harrisburg,PA,17101-8099,390067,,USA,1,4,521
+PAHM,IT1: Hospital Based Lab,2,Histocompatibility Lab at Hahnemann,,Histocompatibility Laboratory at Hahnemann University Hospital Tenet,Philadelphia,PA,19102-1192,390051,,USA,0,,522
+PAHM,TX1: Transplant Hospital,2,Hahnemann University Hospital,,Hahnemann University Hospital,Philadelphia,PA,19102-1192,390290,,USA,0,4,523
+PALH,TX1: Transplant Hospital,2,The Lankenau Hospital,Transplant Program,The Lankenau Hospital,Wynnewood,PA,19096,390195,,USA,1,4,524
+PALV,IT1: Hospital Based Lab,2,HLA Lab at Lehigh Valley Hospital,,HLA Lab at Lehigh Valley Hospital,Allentown,PA,18103,390133,,USA,1,,525
+PALV,TX1: Transplant Hospital,2,Lehigh Valley Hospital,,Lehigh Valley Hospital,Allentown,PA,18105,390133,,USA,1,4,526
+PAPT,TX1: Transplant Hospital,2,Univ of Pittsburgh Med Ctr,Oakland VA Medical Center,University of Pittsburgh Medical Center,Pittsburgh,PA,15213-2582,390164,,USA,1,4,527
+PAPT,VA1: Veteran's Hospital,2,Oakland VA Medical Center,,Oakland Veterans Administration Medical Center,Pittsburgh,PA,15213,39012F,,USA,0,,528
+PASC,TX1: Transplant Hospital,2,St. Christopher's Hosp for Children,,St. Christopher's Hospital for Children,Philadelphia,PA,19134-1095,393301,,USA,1,4,529
+PATF,OP1: Independent OPO,2,Center for Organ Recovery and Educ.,,Center for Organ Recovery and Education,Pittsburgh,PA,15238-2825,39P002,,USA,1,,530
+PATJ,IT1: Hospital Based Lab,2,Immunogenetics and Tissue Typing Lab,Thomas Jefferson Univ. Hospital,Immunogenetics and Tissue Typing Lab at Thomas Jefferson Univ. Hospital,Philadelphia,PA,19107-5098,390174,,USA,1,,531
+PATJ,TX1: Transplant Hospital,2,Thomas Jefferson Univ Hosp,,Thomas Jefferson University Hospital,Philadelphia,PA,19107,390174,,USA,1,4,532
+PATU,IT1: Hospital Based Lab,2,Immunogenetics Lab,Temple University,Temple University Hospital Immunogenetics Laboratory,Philadelphia,PA,19140,390027,,USA,1,,533
+PATU,TX1: Transplant Hospital,2,Temple Univ Hospital,,Temple University Hospital,Philadelphia,PA,19140,390027,,USA,1,4,534
+PAUP,IT1: Hospital Based Lab,2,Immunology Lab,Univ. of Pennsylvania,Immunology Laboratory at the University of Pennsylvania,Philadelphia,PA,19104,390111,,USA,1,,535
+PAUP,TX1: Transplant Hospital,2,The Hosp of the Univ of PA,,Hospital of the University of Pennsylvania,Philadelphia,PA,19104,390111,,USA,1,4,536
+PRCC,TX1: Transplant Hospital,3,Cardiovascular Ctr of PR,& the Caribbean,Cardiovascular Center of Puerto Rico and the Caribbean,San Juan,PR,936,400124,PR,PRO,1,3,588
+PRLL,OP1: Independent OPO,3,LifeLink of Puerto Rico,"Daimler-Chrysler Building, Suite 100",LifeLink of Puerto Rico,Guaynabo,PR,968,40P002,,USA,1,,589
+PRSJ,IT1: Hospital Based Lab,3,Immunogenetics Lab,Auxilo Mutuo Hospital,Immunogenetics Laboratory at Auxilo Mutuo Hospital,Hato Rey,PR,00919-1227,400016,,USA,1,,590
+PRSJ,TX1: Transplant Hospital,3,Auxilio Mutuo Hosp,,Auxilio Mutuo Hospital,Hato Rey,PR,00919-1227,400016,,USA,1,3,591
+PRTL,TT1: Independent Lab,3,Histo & DNA Laboratory,Univ of Puerto Rico,Histocompatibility & DNA Laboratory / University of Puerto Rico,San Juan,PR,936,408113,,USA,0,,592
+RIRH,TX1: Transplant Hospital,1,Rhode Island Hospital,,Rhode Island Hospital,Providence,RI,02903-4970,410007,,USA,1,1,593
+SCMU,IT1: Hospital Based Lab,11,MUSC Tissue Typing Lab,Univ of South Carolina,Tissue Typing Laboratory at the Medical University of South Carolina,Charleston,SC,29425-0777,420004,,USA,1,,594
+SCMU,TX1: Transplant Hospital,11,Medical Univ of SC,,Medical University of South Carolina,Charleston,SC,29425-0777,420004,,USA,1,6,595
+SCOP,OP1: Independent OPO,11,We Are Sharing Hope SC,,We Are Sharing Hope SC,Charleston,SC,29405,42P001,,USA,1,,596
+SCPH,TX1: Transplant Hospital,11,Providence Hosp,,Providence Hospital,Columbia,SC,29204,,,USA,0,6,597
+SCRM,IT1: Hospital Based Lab,11,Immunogenetics Lab,,Immunogenetics Laboratory at Richland Memorial Hospital,Columbia,SC,29203,420018,,USA,0,,598
+SCRM,TX1: Transplant Hospital,11,Richland Memorial Hosp,,Richland Memorial Hospital,Columbia,SC,29203,420018,,USA,0,6,599
+SDMK,TX1: Transplant Hospital,7,Avera McKennan Hosp,South Dakota Renal Transplant Center,Avera McKennan Hospital,Sioux Falls,SD,57105,430016,,USA,1,11,600
+TNBM,TX1: Transplant Hospital,11,Baptist Memorial Hosp,,Baptist Memorial Hospital,Memphis,TN,38120-2113,440048,,USA,1,8,602
+TNDL,TT1: Independent Lab,11,DCI Laboratory - Nashville,,DCI Laboratory - Nashville,Nashville,TN,37203,44HL01,,USA,1,,603
+TNDS,OP1: Independent OPO,11,Tennessee Donor Svcs,,Tennessee Donor Services,Nashville,TN,37228,44P001,,USA,1,,604
+TNEL,TT1: Independent Lab,11,DCI Lab at Erlanger Med Ctr,,DCI Laboratory at Erlanger Medical Center,Chattanooga,TN,37403,44HL04,,USA,0,,605
+TNEM,TX1: Transplant Hospital,11,Erlanger Med Ctr,,Erlanger Medical Center,Chattanooga,TN,37403,440104,,USA,1,8,606
+TNET,OP1: Independent OPO,11,Life Resources Reg Donor Ctr,,Life Resources Regional Donor Center,Johnson City,TN,37604,44P002,,USA,0,,607
+TNJC,TX1: Transplant Hospital,11,Johnson City Med Ctr Hosp,Mountain States Health Alliance,Johnson City Medical Center Hospital,Johnson City,TN,37604-6094,440063,,USA,0,8,608
+TNLB,TX1: Transplant Hospital,11,Le Bonheur Children's Med Ctr,,Le Bonheur Children's Medical Center,Memphis,TN,38103,443301,,USA,1,8,609
+TNMH,TX1: Transplant Hospital,11,Methodist University Hospital,Methodist LeBonheur TX Institute,Methodist University Hospital,Memphis,TN,38104,440049,,USA,1,8,610
+TNML,TT1: Independent Lab,11,Mid-South Transplant Fndn Lab,,Mid-South Transplant Foundation Histocompatibility Laboratory,Memphis,TN,38108,44HL02,,USA,1,,611
+TNMS,OP1: Independent OPO,11,Mid-South Transplant Foundation,,Mid-South Transplant Foundation,Cordova,TN,38018,44P003,,USA,1,,612
+TNPV,TX1: Transplant Hospital,11,Centennial Medical Center,,Centennial Medical Center,Nashville,TN,37203,440161,,USA,0,8,613
+TNRE,TT1: Independent Lab,11,Gene Proof Technologies,,Gene Proof Technologies,Nashville,TN,37214,44HL03,,USA,0,,614
+TNST,TX1: Transplant Hospital,11,St. Thomas Hospital,,Saint Thomas Hospital,Nashville,TN,37205,440082,,USA,1,8,615
+TNUK,IT1: Hospital Based Lab,11,Transplant Lab at the Univ of TN,University of Tennessee,Transplant Laboratory at the University of Tennessee,Knoxville,TN,37920-6999,440015,,USA,0,,616
+TNUK,TX1: Transplant Hospital,11,Univ of Tennessee Med Ctr,,University of Tennessee Medical Center at Knoxville,Knoxville,TN,37920,440015,,USA,1,8,617
+TNUT,TX1: Transplant Hospital,11,Univ of Tennessee Med Center,William F Bowld Medical Hospital,William F Bowld Hospital University of Tennessee Medical Center,Memphis,TN,38103-2898,440166,,USA,0,8,618
+TNVU,IT1: Hospital Based Lab,11,VA Med Ctr Tissue Typing Lab,,VA Medical Center Tissue Typing Laboratory,Nashville,TN,37232,44018F,,USA,0,,619
+TNVU,TX1: Transplant Hospital,11,Vanderbilt Univ Med Ctr,,Vanderbilt University Medical Center,Nashville,TN,37232,440039,,USA,1,8,620
+TNVU,VA1: Veteran's Hospital,11,Nashville VA Medical Center,,Nashville Veterans Administration Hospital,Nashville,TN,37212,44018F,,USA,0,,621
+TXAD,IO1: Hospital Based OPO,4,Central Texas Organ Program,,Central Texas Organ Program,Austin,TX,78701-1996,45P001,,USA,0,,623
+TXAD,IT1: Hospital Based Lab,4,Brackenridge Hospital Histo Lab,,Histocompatibility Laboratory at Brackenridge Hospital,Austin,TX,78701-1996,450124,,USA,0,,624
+TXAD,TX1: Transplant Hospital,4,Brackenridge Hospital,University Medical Ctr Brackenridge,Brackenridge Hospital,Austin,TX,78701-1996,450124,,USA,0,14,625
+TXBA,TX1: Transplant Hospital,4,Brooke Army Med Ctr,,Brooke Army Medical Center,Fort Sam Houston,TX,78234-6347,45069F,,USA,0,14,626
+TXBC,IO1: Hospital Based OPO,4,Univ of Texas San Antonio OPO,,University of Texas HSC at San Antonio OPO,San Antonio,TX,78229,,,USA,0,,627
+TXBC,IT1: Hospital Based Lab,4,Histo Lab at Univ of TX,,Histocompatibility Laboratory at Univ of TX,San Antonio,TX,78229,45HL05,,USA,0,,628
+TXBC,TX1: Transplant Hospital,4,University Hospital,Univ of Texas Health Science Center,"University Hospital, University of Texas Health Science Center",San Antonio,TX,78229-4493,450213,,USA,1,14,629
+TXCF,TX1: Transplant Hospital,4,Cook Children's Med Ctr,,Cook Children's Medical Center,Fort Worth,TX,76104,453300,,USA,1,14,630
+TXCH,TX1: Transplant Hospital,4,Methodist Children's Hosp of S. Texas,,Methodist Children's Hospital of South Texas,San Antonio,TX,78229,450388,,USA,0,14,631
+TXCM,TX1: Transplant Hospital,4,Children's Med Ctr of Dallas,,Children's Medical Center of Dallas,Dallas,TX,75235,453302,,USA,1,14,632
+TXCT,TX1: Transplant Hospital,4,Seton Medical Center Austin,,Seton Medical Center Austin,Austin,TX,78705-1056,450056,,USA,1,14,633
+TXDM,TX1: Transplant Hospital,4,North Austin Medical Center,,North Austin Medical Center,Austin,TX,78758,450809,,USA,1,14,634
+TXFW,IO1: Hospital Based OPO,4,Tarrant County OPO,Harris Methodist Fort Worth,Tarrant County OPO,Fort Worth,TX,76104,45P005,,USA,0,,635
+TXFW,TX1: Transplant Hospital,4,TX Health Harris Meth. Ft Worth Hosp,,Texas Health Harris Methodist Fort Worth Hospital,Fort Worth,TX,76104,459811,,USA,1,14,636
+TXGC,OP1: Independent OPO,4,LifeGift Organ Donation Ctr,,LifeGift Organ Donation Center,Houston,TX,77054,45P003,,USA,1,,637
+TXGV,TX1: Transplant Hospital,4,Baylor Med Ctr Grapevine,,Baylor Medical Center Grapevine,Grapevine,TX,76051,450563,,USA,0,14,638
+TXHC,TT1: Independent Lab,4,UT Southwestern Histo Lab,,University of Texas Southwestern Histocompatibility Laboratory,Dallas,TX,75390-8886,450015,,USA,0,,639
+TXHD,TX1: Transplant Hospital,4,Medical City Dallas Hospital,,Medical City Dallas Hospital,Dallas,TX,75230-2505,450647,,USA,1,14,640
+TXHH,IT1: Hospital Based Lab,4,Histo and Immuno Eval Lab,,Histocompatibility and Immuno Eval Lab of Hermann Hosp,Houston,TX,77030,45HL02,,USA,0,,641
+TXHH,TX1: Transplant Hospital,4,Memorial Hermann Hospital,Univ of Texas at Houston,"Memorial Hermann Hospital, University of Texas at Houston",Houston,TX,77030,450068,,USA,1,14,642
+TXHI,TX1: Transplant Hospital,4,CHI St. Luke's Health Baylor College,of Medicine Medical Center,CHI St. Luke's Health Baylor College of Medicine Medical Center,Houston,TX,77030,450193,,USA,1,14,643
+TXHL,TT1: Independent Lab,4,Texas Tech Univ HSC HLA Lab,,Texas Tech University Health Sciences Center HLA Laboratory,Lubbock,TX,79430,45HL09,,USA,0,,644
+TXHS,TX1: Transplant Hospital,4,Methodist Specialty & Transplant Hosp,,Methodist Specialty and Transplant Hospital,San Antonio,TX,78229,450388,,USA,1,14,645
+TXID,TT1: Independent Lab,4,Immuno D,,Immuno D,San Antonio,TX,78229,458577,,USA,0,,646
+TXJS,IT1: Hospital Based Lab,4,Tissue Antigen Lab at UT Galveston,,Tissue Antigen Laboratory at UT Galveston,Galveston,TX,77555-0536,450018,,USA,1,,647
+TXJS,TX1: Transplant Hospital,4,Univ of Texas Med Branch,,University of Texas Medical Branch at Galveston,Galveston,TX,77555,450018,,USA,1,14,648
+TXLG,IO1: Hospital Based OPO,4,Lubbock General Hospital OPO,,Lubbock General Hospital OPO,Lubbock,TX,79408-5980,45P006,,USA,0,,649
+TXLG,IT1: Hospital Based Lab,4,University Med Ctr Lab,,University Medical Center Lab,Lubbock,TX,79408-5980,450686,,USA,0,,650
+TXLG,TX1: Transplant Hospital,4,University Medical Center,,University Medical Center,Lubbock,TX,79408-5980,450686,,USA,0,14,651
+TXLM,TX1: Transplant Hospital,4,Covenant Medical Center,,Covenant Medical Center,Lubbock,TX,79410,450457,,USA,0,14,652
+TXMC,IT1: Hospital Based Lab,4,Transplant Immunology Lab,Methodist Dallas Medical Center,Transplant Immunology Laboratory at Methodist Dallas Medical Center,Dallas,TX,75203-1201,450051,,USA,1,,653
+TXMC,TX1: Transplant Hospital,4,Methodist Dallas Medical Center,,Methodist Dallas Medical Center,Dallas,TX,75203-1201,450051,,USA,1,14,654
+TXMH,IT1: Hospital Based Lab,4,Histo and Clinical Immunology Lab,Methodist Hospital,Histocompatibility and Immunology Lab at Methodist Hospital,Houston,TX,77030,450358,,USA,1,,655
+TXMH,TX1: Transplant Hospital,4,Houston Methodist Hospital,,Houston Methodist Hospital,Houston,TX,77030-2707,450358,,USA,1,14,656
+TXMS,TT1: Independent Lab,4,Texas Medical Specialty,,Texas Medical Specialty,Dallas,TX,75230,45-HL-12,,USA,1,,657
+TXPM,TX1: Transplant Hospital,4,Parkland Health and Hospital System,,Parkland Health and Hospital System,Dallas,TX,75235,450015,,USA,1,14,658
+TXRM,TX1: Transplant Hospital,4,Christus Santa Rosa Hospital Med. Ctr,,Christus Santa Rosa Hospital Medical Center,San Antonio,TX,78229,450237,,USA,0,14,659
+TXSA,OP1: Independent OPO,4,Texas Organ Sharing Alliance,,Texas Organ Sharing Alliance,San Antonio,TX,78229,45P004,,USA,1,,660
+TXSB,OP1: Independent OPO,4,Southwest Transplant Alliance,Formerly Southwest Organ Bank,Southwest Transplant Alliance,Dallas,TX,75231,45P002,,USA,1,,661
+TXSE,TT1: Independent Lab,4,UTHSCSA Extra-Renal Histo Lab,,"University of Texas HSC, Extra-Renal Histocompatibility Lab",San Antonio,TX,78229-3900,45HL07,,USA,0,,662
+TXSI,TT1: Independent Lab,4,Southwest Immunodiagnostics,,Southwest Immunodiagnostics,San Antonio,TX,78229,45HL04,,USA,1,,663
+TXSL,TT1: Independent Lab,4,Carter BloodCare,,Carter BloodCare,Tyler,TX,75701,458541,,USA,0,,664
+TXSM,IT1: Hospital Based Lab,4,Transplant Immunology Lab,Sierra Medical Center,Transplant Immunology Laboratory at Sierra Medical Center,El Paso,TX,79902,450668,,USA,0,,665
+TXSM,TX1: Transplant Hospital,4,Sierra Medical Ctr,,Sierra Medical Center,El Paso,TX,79902,450668,,USA,0,14,666
+TXSP,TX1: Transplant Hospital,4,UT Southwestern Medical Center/,William P. Clements Jr. Univ Hospital,UT Southwestern Medical Center/William P. Clements Jr. University Hospital,Dallas,TX,75390,450044,,USA,1,14,667
+TXSR,TT1: Independent Lab,4,Histo & Immunogenetics Lab,University Health System,Histocompatibility and Immunogenetics Lab/University Health System,San Antonio,TX,78229,45HL05,,USA,1,,668
+TXSW,IT1: Hospital Based Lab,4,Histo Lab at Scott & White,Memorial Hospital,Histocompatibility Laboratory at Scott and White Memorial Hospital,Temple,TX,76508,45D073,,USA,1,,669
+TXSW,TX1: Transplant Hospital,4,Scott and White Mem Hosp,,Scott and White Memorial Hospital,Temple,TX,76508,450054,,USA,1,14,670
+TXTC,TX1: Transplant Hospital,4,Texas Children's Hospital,,Texas Children's Hospital,Houston,TX,77030,453304,,USA,1,14,671
+TXTH,TT1: Independent Lab,4,Memorial Hermann-Texas Medical Center,Histocom. & Immune Evaluation Lab,Memorial Hermann-Texas Medical Center,Houston,TX,77030,45HL02,,USA,1,,672
+TXTL,TT1: Independent Lab,4,Univ of Texas Southwestern Med Ctr,Transplant Immunology Lab,University of Texas Southwestern Medical Center Transplant Immunology Lab,Dallas,TX,75390-8886,45HL03,,USA,0,,673
+TXTX,IT1: Hospital Based Lab,4,Transplant Immunology Lab,Baylor University Medical Center,Transplant Immunology Laboratory at Baylor University Medical Center,Dallas,TX,75246,450021,,USA,1,,674
+TXTX,TX1: Transplant Hospital,4,Baylor University Medical Center,Transplant Institute,Baylor University Medical Center,Dallas,TX,75246,450021,,USA,1,14,675
+TXTY,TX1: Transplant Hospital,4,East Texas Med Ctr,,East Texas Medical Center,Tyler,TX,75701-1908,450083,,USA,0,14,676
+TXWH,IT1: Hospital Based Lab,4,Immunology HLA Lab,,Transplant Immunology Section Immunology Branch at Wilford Hall Med Ctr,San Antonio,TX,78236,45081F,,USA,0,,677
+TXWH,TX1: Transplant Hospital,4,Wilford Hall Med Ctr,,Wilford Hall Medical Center,Lackland AFB,TX,78236-5300,45081F,,USA,0,14,678
+TXWL,TT1: Independent Lab,4,Transplant Immunology Lab,Wilford Hall Med Ctr,Transplant Immunology Laboratory at Wilford Hall Medical Center,San Antonio,TX,78236,45081F,,USA,0,,679
+TXWT,OP1: Independent OPO,4,West Texas Organ Alliance,,West Texas Organ Alliance,Lubbock,TX,79410,,,USA,0,,680
+UNKN,OP1: Independent OPO,,Unknown OPO,,Unknown OPO,,,,,,,0,,681
+UNKN,TT1: Independent Lab,,Unknown Lab,,Unknown Lab,,,,,,,0,,682
+UNKN,TX1: Transplant Hospital,,Unknown Hospital,,Unknown Hospital,,,,999999,,USA,0,,683
+UTLD,TX1: Transplant Hospital,5,Intermountain Medical Center,,Intermountain Medical Center,Murray,UT,84107,460010,,USA,1,15,688
+UTMC,IT1: Hospital Based Lab,5,Histo and Immunogenetics Lab,University of Utah,Histocompatibility and Immunogenetics Laboratory at the University of Utah,Salt Lake City,UT,84132,460009,,USA,1,,689
+UTMC,TX1: Transplant Hospital,5,Univ of Utah Medical Center,,University of Utah Medical Center,Salt Lake City,UT,84132,460009,,USA,1,15,690
+UTMC,VA1: Veteran's Hospital,5,Salt Lake City VA Medical Center,George E. Wahlen Dpt. of Veteran Affa,Salt Lake City Veterans Administation Medical Center,Salt Lake City,UT,84148,46002F,,USA,0,,691
+UTOP,OP1: Independent OPO,5,DonorConnect,,DonorConnect,Murray,UT,84107,46P001,,USA,1,,692
+UTPC,TX1: Transplant Hospital,5,Primary Children's Hospital,,Primary Children's Hospital,Salt Lake City,UT,84113-1100,463301,,USA,1,15,693
+VACH,TX1: Transplant Hospital,11,Children's Hosp of King's Daughters,,Children's Hospital of the King's Daughters,Norfolk,VA,23507,493301,,USA,1,5,694
+VAFH,IO1: Hospital Based OPO,2,Fairfax Hosp OPO,,Fairfax Hospital Organ & Tissue Donor Program,Falls Church,VA,22046,490063,,USA,0,,695
+VAFH,TX1: Transplant Hospital,2,Inova Fairfax Hosp,,Inova Fairfax Hospital,Falls Church,VA,22042,490063,,USA,1,5,696
+VAHD,IT1: Hospital Based Lab,11,Histo Lab at Henrico Doctors' Hosp,,Histocompatibility Laboratory at Henrico Doctors' Hospital,Richmond,VA,23229,490118,,USA,1,,697
+VAHD,TX1: Transplant Hospital,11,Henrico Doctors' Hospital,,Henrico Doctors' Hospital,Richmond,VA,23229,490118,,USA,1,5,698
+VAMC,IT1: Hospital Based Lab,11,HLA and Immune Monitoring Lab,,Tissue Typing Laboratory at the Medical College of Virginia,Richmond,VA,23219,490032,,USA,1,,699
+VAMC,TX1: Transplant Hospital,11,VCU Health System Authority,,"VCU Health System Authority, VCUMC",Richmond,VA,23298,490032,,USA,1,5,700
+VAMV,TX1: Transplant Hospital,11,McGuire VA Medical Center,,Hunter Holmes McGuire Veterans Administration Medical Center,Richmond,VA,23249-0001,49010F,,USA,1,5,701
+VANG,IT1: Hospital Based Lab,11,HLA Immunology Lab,Norfolk General Hospital,HLA Immunology Laboratory at Sentara Norfolk General Hospital,Norfolk,VA,23507,490007,,USA,1,,702
+VANG,TX1: Transplant Hospital,11,Sentara Norfolk General Hospital,,Sentara Norfolk General Hospital,Norfolk,VA,23507,490007,,USA,1,5,703
+VAOP,OP1: Independent OPO,11,Virginias Organ Procurement Agency,,Virginias Organ Procurement Agency,Richmond,VA,23235,49P002,,USA,0,,704
+VARM,TX1: Transplant Hospital,11,Carilion Roanoke Memorial Hosp,,Carilion Roanoke Memorial Hospital,Roanoke,VA,24033,490024,,USA,0,5,705
+VATB,OP1: Independent OPO,11,LifeNet Health,,LifeNet Health,Virginia Beach,VA,23453,49P001,,USA,1,,706
+VAUV,IT1: Hospital Based Lab,11,Tissue Typing Lab at UVA HSC,University of Virginia HSC,Tissue Typing Laboratory at The University of Virginia HSC,Charlottesville,VA,22908,490009,,USA,1,,707
+VAUV,TX1: Transplant Hospital,11,Univ of Virginia HSC,,University of Virginia Health Sciences Center,Charlottesville,VA,22908,490009,,USA,1,5,708
+VTMC,IT1: Hospital Based Lab,9,Histo Lab - Fletcher Allen Healthcare,,Histocompatibility Laboratory at Fletcher Allen Health Care,Burlington,VT,05401-1429,470003,,USA,0,,726
+VTMC,TX1: Transplant Hospital,9,The University of Vermont Medical Cen,Formerly Med Ctr Hosp of VT,The University of Vermont Medical Center,Burlington,VT,05401-1416,470003,,USA,1,1,727
+WABC,TT1: Independent Lab,6,Bloodworks NW Immunogenetics Lab,,Bloodworks Northwest Immunogenetics Laboratory,Seattle,WA,98104-1256,50HL01,,USA,1,,728
+WACH,TX1: Transplant Hospital,6,Seattle Children's Hospital,,Seattle Children's Hospital,Seattle,WA,98105,503300,,USA,1,16,729
+WALC,OP1: Independent OPO,6,LifeCenter Northwest,,LifeCenter Northwest,Bellevue,WA,98006,50P003,,USA,1,,730
+WANW,OP1: Independent OPO,6,Northwest Organ Procurement Agency,,Northwest Organ Procurement Agency,Seattle,WA,98122-5371,50P001,,USA,0,,731
+WASH,IO1: Hospital Based OPO,6,Sacred Heart OPA,,Sacred Heart Organ Procurement Agency,Spokane,WA,99220-2555,,,USA,0,,732
+WASH,TX1: Transplant Hospital,6,Sacred Heart Med Ctr,,Providence Sacred Heart Medical Center & Children's Hospital,Spokane,WA,99204,500054,,USA,1,16,733
+WASM,TX1: Transplant Hospital,6,Swedish Medical Center,,Swedish Medical Center,Seattle,WA,98122-4307,500027,,USA,1,16,734
+WAST,TT1: Independent Lab,6,Inland Northwest Blood Ctr,,Vitalant-Spokane,Spokane,WA,99201-2217,50HL02,,USA,1,,735
+WAUW,TX1: Transplant Hospital,6,Univ of Washington Med Ctr,,University of Washington Medical Center,Seattle,WA,98195-6174,500008,,USA,1,16,736
+WAVM,TX1: Transplant Hospital,6,Virginia Mason Med Ctr,,Virginia Mason Medical Center,Seattle,WA,98111,500005,,USA,1,16,737
+WIBC,TT1: Independent Lab,7,"Versiti, BloodCenter of Wisconsin",Histo Lab,"Versiti, Blood Center of Wisconsin",Milwaukee,WI,53233-2121,52HL01,,USA,1,,738
+WICH,TX1: Transplant Hospital,7,Childrens Hosp of Wisconsin,,Children's Hospital of Wisconsin,Milwaukee,WI,53226,523300,,USA,1,11,739
+WIMC,TX1: Transplant Hospital,7,John L Doyne Hosp,Medical College of Wisconsin,John L Doyne Hospital and Zalocki Veterans Administration Medical Center,Milwaukee,WI,53226,520174,,USA,0,11,740
+WISE,IO1: Hospital Based OPO,7,Wisconsin Donor Network,,Wisconsin Donor Network,Milwaukee,WI,53214,52P002,,USA,0,,741
+WISE,TX1: Transplant Hospital,7,Froedtert Mem Lutheran Hosp,Medical College of Wisconsin,Froedtert Memorial Lutheran Hospital,Milwaukee,WI,53226,520177,,USA,1,11,742
+WISE,VA1: Veteran's Hospital,7,Zablocki VA Medical Center,,Zablocki Veterans Administration Medical Center,Milwaukee,WI,53226,52003F,,USA,0,,743
+WISL,IO1: Hospital Based OPO,7,St. Luke's Medical Center OPO,,St Luke's Medical Center OPO,Milwaukee,WI,53215,520P02,,USA,0,,744
+WISL,IT1: Hospital Based Lab,7,HLA Lab at Aurora St. Luke's Med Ctr,,HLA Laboratory at Aurora St. Luke's Medical Center,Milwaukee,WI,53215,520138,,USA,1,,745
+WISL,TX1: Transplant Hospital,7,Aurora St. Luke's Medical Center,,Aurora St. Luke's Medical Center,Milwaukee,WI,53215,520138,,USA,1,11,746
+WIUW,IO1: Hospital Based OPO,7,UW Health Organ and Tissue Donation,,UW Health Organ and Tissue Donation,Madison,WI,53711-9135,52P001,,USA,1,,747
+WIUW,IT1: Hospital Based Lab,7,Histo Lab at the Univ. of Wisconsin,,Histocompatibility Laboratory at the University of Wisconsin,Madison,WI,53711-9135,520098,,USA,1,,748
+WIUW,TX1: Transplant Hospital,7,Univ of Wisconsin Hosp and Clinics,,University of Wisconsin Hospital and Clinics,Madison,WI,53792,520098,,USA,1,11,749
+WVCA,TX1: Transplant Hospital,2,Charleston Area Medical Center,,Charleston Area Medical Center,Charleston,WV,25325-1393,510022,,USA,1,5,750
+WVMS,OP1: Independent OPO,2,Mt State OPA,,Mountain State Organ Procurement Agency Inc,Clendenin,WV,25045,51P001,,USA,0,,751
+WVWU,IT1: Hospital Based Lab,2,WVU Hosp Immunopathology Lab,,Immunopathology Laboratory at West Virginia University,Morgantown,WV,26506,510001,,USA,0,,752
+WVWU,TX1: Transplant Hospital,2,West Virginia University Hospitals In,,West Virginia University Hospitals Inc.,Morgantown,WV,26505,510001,,USA,1,5,753
+ZCAN,FOP: Foreign OPO,98,Foreign OPO Canada,,Foreign OPO Canada,,,,,,,0,,754
+ZCAN,FTX: Foreign Hospital,98,Foreign Hospital Canada,,Foreign Hospital Canada,,,,,,,0,,755
+ZENG,FOP: Foreign OPO,98,Foreign OPO England,,Foreign OPO England,,,,,,,0,,756
+ZENG,FTT: Foreign Lab,98,Foreign Lab England,,Foreign Lab England,,,,,,,0,,757
+ZENG,FTX: Foreign Hospital,98,Foreign Hospital England,,Foreign Hospital England,,,,,,,0,,758
+ZFOR,FOP: Foreign OPO,98,Foreign OPO,,Foreign OPO,,,,,,,0,,759
+ZFOR,FTT: Foreign Lab,98,Foreign Lab,,Foreign Lab,,,,,,,0,,760
+ZFOR,FTX: Foreign Hospital,98,Foreign Hospital Foreign,,Foreign Hospital Foreign,,,,,,,0,,761
+ZGER,FOP: Foreign OPO,98,Foreign OPO Germany,,Foreign OPO Germany,,,,,,,0,,762
+ZGER,FTX: Foreign Hospital,98,Foreign Hospital Germany,,Foreign Hospital Germany,,,,,,,0,,763
+ZKUW,FOP: Foreign OPO,98,Foreign OPO Kuwait,,Foreign OPO Kuwait,,,,,,,0,,764
+ZZZZ,TX1: Transplant Hospital,11,Non-UNOS Member US Hospital,,Non-UNOS Member US Hospital,Richmond,VA,23219,999999,,USA,0,,765
+CTOP,OP1: Independent OPO,1,LifeChoice Donor Services,,LifeChoice Donor Services,Waltham,MA,2451,07P001,,USA,0,,766
+PACP,IT1: Hospital Based Lab,2,Children's Hosp. of Philadelphia Lab,Immunogenetics Lab,Children's Hosp. of Philadelphia Immunogenetics Lab,Philadelphia,PA,19104,393303,,USA,1,,767
+WVAL,TT1: Independent Lab,2,Allogen Laboratories - WV,,Allogen Laboratories - WV,Charleston,WV,25301,511289,,USA,0,,769
+AZCH,TX1: Transplant Hospital,5,Phoenix Children's Hospital,,Phoenix Children's Hospital,Phoenix,AZ,85016,33302,,USA,1,15,770
+KSHH,TX1: Transplant Hospital,8,Kansas Heart Hospital,,Kansas Heart Hospital,Wichita,KS,67226,170186,,USA,0,12,772
+TXAS,TX1: Transplant Hospital,4,Baylor  Scott and White All Saints,Medical Center-Fort Worth,Baylor  Scott and White All Saints Medical Center-Fort Worth,Fort Worth,TX,76104,450137,,USA,1,14,773
+FLBC,TX1: Transplant Hospital,3,Broward Health Medical Center,Jackson Memorial Hospital,Broward Health Medical Center,Fort Lauderdale,FL,33316,100039,,USA,1,7,774
+TXPL,TX1: Transplant Hospital,4,Medical City Fort Worth,,Medical City Fort Worth,Fort Worth,TX,76104,450672,,USA,1,14,779
+ILCM,IT1: Hospital Based Lab,7,HLA & Molecular Diagnostics Lab,Lurie Children's Hospital of Chicago,HLA & Molecular Diagnostics Lab at Lurie Children's Hospital of Chicago,Chicago,IL,60611-2605,143300,,USA,0,,780
+CAKP,TX1: Transplant Hospital,5,Kaiser Permanente-San Fran. Med. Ctr,,Kaiser Permanente-San Francisco Medical Center,San Francisco,CA,94115-3357,50076,,USA,0,,781
+PAVA,TX1: Transplant Hospital,2,VA Pittsburgh Healthcare System,,VA Pittsburgh Healthcare System,Pittsburgh,PA,15240,39012F,,USA,1,,782
+MAPB,IT1: Hospital Based Lab,1,Tissue Typing Laboratory,Brigham & Women's Hospital,Brigham & Women's Hospital Tissue Typing Lab,Boston,MA,2115,226654,,USA,1,,786
+CAHP,TX1: Transplant Hospital,5,City of Hope National Medical Center,,City of Hope National Medical Center,Duarte,CA,91010-3000,50146,,USA,1,,787
+RIBC,TT1: Independent Lab,1,HLA Lab/Rhode Island Blood Center,,HLA Laboratory/Rhode Island Blood Ctr,Providence,RI,2908,410559,,USA,0,,788
+CAHP,IT1: Hospital Based Lab,5,Histo Lab/ City of Hope Natl Med Ctr,,Histocompatibility Lab at City of Hope National Medical Center,Duarte,CA,91010-3000,,,USA,0,,790
+TXZL,TX1: Transplant Hospital,4,Zale-Lipshv University Hospital,UT Southwestern Medical Center,Zale-Lipshv University Hospital,Dallas,TX,75390-9031,450766,,USA,0,,791
+TXMA,TX1: Transplant Hospital,4,McAllen Medical Center,South Texas Transplant Center,McAllen Medical Center,McAllen,TX,78503-3098,450811,,USA,0,14,793
+CANI,TT1: Independent Lab,5,Eurofins (California),Donor & Product Testing,Eurofins Donor & Product Testing (California),Los Angeles,CA,90057,51019,,USA,1,,794
+MIDV,TX1: Transplant Hospital,10,Helen DeVos Children's Hospital,,Helen DeVos Children's Hospital,Grand Rapids,MI,49503,230038,,USA,1,,795
+TNDK,TT1: Independent Lab,11,DCI Laboratory - Knoxville,Transplant Laboratory,DCI Laboratory - Knoxville Transplant Laboratory,Knoxville,TN,37920,44-HL-0-6,,USA,0,,797
+LALV,TX1: Transplant Hospital,3,Lakeview Regional Medical Center,,Lakeview Regional Medical Center,Covington,LA,70433,190177,,USA,0,,799
+LAMC,TX1: Transplant Hospital,3,University Medical Center,,University Medical Center,Lafayette,LA,70506-2390,190006,,USA,0,13,800
+MDUM,IT1: Hospital Based Lab,2,Immunogenetics Laboratory,University of Maryland Med. Ctr.,Immunogenetics Laboratory,Baltimore,MD,21201,216344,,USA,1,,802
+PAWV,TX1: Transplant Hospital,2,Geisinger Wyoming Valley Medical Ctr,,Geisinger Wyoming Valley Medical Ctr,Wilkes-Barre,PA,18711,390270,,USA,0,,805
+NYTL,TT1: Independent Lab,9,IMMCO Immunogenetics,,IMMCO Immunogenetics,Williamsville,NY,14221,33D075,,USA,1,,806
+TXDC,TX1: Transplant Hospital,4,Driscoll Children's Hospital,,Driscoll Children's Hospital,Corpus Christi,TX,78411,453301,,USA,1,14,807
+LAKR,TX1: Transplant Hospital,3,Kenner Regional Medical Center,,Kenner Regional Medical Center,Kenner,LA,70065,190260,,USA,0,,808
+PAHL,TT1: Independent Lab,2,Central PA Transplant Assoc Histo Lab,,Central PA Transplant Associates Histocompatibility Lab,Harrisburg,PA,17104,390137,,USA,0,,809
+SDSV,TX1: Transplant Hospital,7,Sanford Health/USD Medical Center,,Sanford Health/USD Medical Center,Sioux Falls,SD,57117,430027,,USA,1,,813
+DECC,TX1: Transplant Hospital,2,Christiana Care Health Services,,Christiana Care Health Services,Newark,DE,19713,80001,,USA,1,,814
+ILUC,IT1: Hospital Based Lab,7,TX  Immunology & Immunogenetics Lab,Univ. of Chicago Hospitals,Transplant Immunology & Immunogenetics Laboratory,Chicago,IL,60637-1470,141659,,USA,1,,816
+MAUM,IT1: Hospital Based Lab,1,Histocompatibility Lab at UMass,Medical Center,Histocompatibility Laboratory at UMASS Medical Center,Worcester,MA,1605,224619,,USA,1,,818
+FLHM,TX1: Transplant Hospital,3,Halifax Health,,Halifax Health,Daytona Beach,FL,32114,100017,,USA,1,,819
+TXVA,TX1: Transplant Hospital,4,Michael E. DeBakey VA Medical Center,,Michael E. DeBakey VA Medical Center,Houston,TX,77030,45074F,,USA,1,,820
+TXLP,TX1: Transplant Hospital,4,Las Palmas Medical Center,,Las Palmas Medical Center,El Paso,TX,79902,450107,,USA,1,14,823
+TXEP,TT1: Independent Lab,4,Transplant Immunology Lab-Sierra,,Transplant Immunology Lab - Sierra Medical Center,El Paso,TX,79902,459561,,USA,0,,824
+ZCAN,FTT: Foreign Lab,98,Foreign Lab Canada,,Foreign Lab Canada,,,,,,,0,,825
+ZGER,FTT: Foreign Lab,98,Foreign Lab Germany,,Foreign Lab Germany,,,,,,,0,,826
+MOLB,TT1: Independent Lab,8,Mid-America Transplant Services Lab,,Mid-America Transplant Services Laboratory,St. Louis,MO,63110,266087,,USA,1,,828
+KSFW,IT1: Hospital Based Lab,8,Via Christi Hsp Wichita Inc Histo Lab,,"Via Christi Hospitals Wichita, Inc. Histocompatibility Lab",Wichita,KS,67214,171945,,USA,0,,830
+WIDN,OP1: Independent OPO,7,BloodCenter of Wisconsin/,Wisconsin Donor Network,"Versiti Wisconsin, Inc",Milwaukee,WI,53233,52P002,,USA,1,,832
+PALN,TT1: Independent Lab,2,Eurofins (Pennsylvania),Donor & Product Testing,Eurofins Donor & Product Testing (Pennsylvania),Philadelphia,PA,19123-4101,,,USA,1,,833
+FLJD,TX1: Transplant Hospital,3,Mem Reg /Joe DiMaggio Children's Hosp,,Memorial Regional Hospital/Joe DiMaggio Children's Hospital,Hollywood,FL,33021,100038,,USA,1,,835
+TXLP,IT1: Hospital Based Lab,4,Histo & Immunogenetics Lab,Las Palmas Medical Center,Histo & Immunogenetics Lab at Las Palmas Medical Center,El Paso,TX,79902,45D7865,,USA,1,,836
+AZMC,IT1: Hospital Based Lab,5,Mayo Clinic in AZ Histo Lab,,Mayo Clinic in Arizona Histocompatibility Laboratory,Phoenix,AZ,85054,30313,,USA,1,,837
+MISH,TX1: Transplant Hospital,10,Spectrum Health,,Spectrum Health,Grand Rapids,MI,49503,230038,,USA,1,,838
+GAPH,IT1: Hospital Based Lab,3,Piedmont Hospital Histo & Immuno Lab,,Piedmont Hospital Histocompatibility & Immunogenetics Laboratory,Atlanta,GA,30309,,,USA,1,,840
+PACC,TX1: Transplant Hospital,2,Crozer-Chester Medical Center,,Crozer-Chester Medical Center,Upland,PA,19013,390180,,USA,1,,842
+TXBL,TT1: Independent Lab,4,Immune Evaluation Lab-Baylor College,of Medicine,Immune Evaluation Lab-Baylor College of Medicine,Houston,TX,77030,,,USA,1,,843
+HIQM,TX1: Transplant Hospital,6,The Queen's Medical Center,,The Queen's Medical Center,Honolulu,HI,96813,120001,,USA,1,,844
+SDMK,IT1: Hospital Based Lab,7,Avera McKennan Laboratory,Avera McKennan Hospital,Avera McKennan Laboratory,Sioux Falls,SD,57117,,,USA,1,,845
+ALVA,TX1: Transplant Hospital,3,Birmingham VA Medical Center,,Birmingham VA Medical Center,Birmingham,AL,35233,01014F,,USA,1,,848
+MNAC,TX1: Transplant Hospital,7,Univ of MN Amplatz Children's Hosp,,Univ of MN Amplatz Children's Hosp,Minneapolis,MN,55454,240080,,USA,0,,849
+NECH,TX1: Transplant Hospital,8,Children's Hospital & Medical Center,,Children's Hospital & Medical Center,Omaha,NE,68114-4113,283301,,USA,1,,850
+OHBC,TT1: Independent Lab,10,Community Blood Center,,Community Blood Center,Dayton,OH,45402,36-HL-06,,USA,0,,852
+LAWK,IT1: Hospital Based Lab,3,Willis Knighton Medical Center Lab,,Willis Knighton Medical Center Laboratory,Shreveport,LA,71103-3908,19011,,USA,1,,853
+NCBG,IT1: Hospital Based Lab,11,HLA/Immunogenetics Lab,Wake Forest Baptist Hospital,HLA/Immunogenetics Lab,Winston-Salem,NC,27103,,,USA,1,,854
+TXSP,IT1: Hospital Based Lab,4,UT Southwestern Histo Lab,Transplant Immunology Laboratory,UT Southwestern Histocompatibility Laboratory,Dallas,TX,75390-8886,,,USA,1,,855
+OKDL,TT1: Independent Lab,4,Diagnostic Laboratory of Oklahoma,Transplant Immunology Laboratory,Diagnostic Laboratory of Oklahoma,Oklahoma City,OK,73112,402083,,USA,1,,856
+FLMR,TX1: Transplant Hospital,3,Memorial Regional Hospital,,Memorial Regional Hospital,Hollywood,FL,33021,100038,,USA,1,,858
+CAMB,TX1: Transplant Hospital,5,UCSF Medical Center at Mission Bay,,UCSF Medical Center at Mission Bay,San Francisco,CA,94158,50454,,USA,1,,860
+PAPH,TX1: Transplant Hospital,2,UPMC Hamot,,UPMC Hamot,Erie,PA,16550,390063,,USA,1,,861
+FLLM,TX1: Transplant Hospital,3,Largo Medical Center,,Largo Medical Center,Largo,FL,33770,100248,,USA,1,,862
+PAHH,IT1: Hospital Based Lab,2,UPMC Pinnacle HLA Laboratory,PinnacleHealth Harrisburg Hospital,UPMC Pinnacle HLA Laboratory,Harrisburg,PA,17104,39D0137,,USA,1,,863
+ORVA,TX1: Transplant Hospital,6,VA Portland Health Care System,,VA Portland Health Care System,Portland,OR,97239,38003F,,USA,1,,866
+CASL,TT1: Independent Lab,5,Stanford Blood Center - Porter Lab,,Stanford Blood Center - Histocompatibility & Immunogenetics Lab- Porter,Palo Alto,CA,94304,59675,,USA,1,,867
+NYCC,TX1: Transplant Hospital,9,Long Island Jewish Medical Center-,Cohen Children's Medical Center,Long Island Jewish Medical Center-Cohen Children's Medical Center,Queens,NY,11040,330195,,USA,1,,868
+NYVA,TX1: Transplant Hospital,9,James J. Peters VA Medical Center,,James J. Peters VA Medical Center,Bronx,NY,10468,33016F,,USA,1,,869
+SCCH,TX1: Transplant Hospital,11,MUSC Children's Hospital,,MUSC Children's Hospital,Charleston,SC,29425,420004,,USA,1,,871
+FLSH,TX1: Transplant Hospital,3,Ascension Sacred Heart Pensacola,,Ascension Sacred Heart Pensacola,Pensacola,FL,32504,100025,,USA,1,,872
+IAVA,TX1: Transplant Hospital,8,The Iowa City VA Health Care System,,The Iowa City VA Health Care System,Iowa City,IA,52246,16004F,,USA,1,,873
+TXDR,TX1: Transplant Hospital,4,Doctor's Hospital at Renaissance,Renaissance Transplant Institute,Doctor's Hospital at Renaissance,Edinburg,TX,78539,450869,,USA,1,,874
+TXUC,TX1: Transplant Hospital,4,University Children’s Health,,University Children’s Health,San Antonio,TX,78229,450213,,USA,1,,878
+INRH,TX1: Transplant Hospital,10,Riley Hospital for Children,at Indiana University Health,Riley Hosp for Children @ IU Health,Indianapolis,IN,46202,,,USA,0,,879
+PARH,TX1: Transplant Hospital,2,Reading Hospital,,Reading Hospital,Reading,PA,19611,390044,,USA,0,,939
+TNVA,TX1: Transplant Hospital,11,Tennessee Valley Healthcare System,,Tennessee Valley Healthcare System,Nashville,TN,37212,44018F,,USA,0,,945
+TXDL,TX1: Transplant Hospital,4,Dell Children's Medical Center,,Dell Children's Medical Center,Austin,TX,78723,453310,,USA,1,,948
+ILVA,TX1: Transplant Hospital,7,"Edward Hines Jr., VA Medical Center",,Edward Hines Jr. Veterans Administration Medical Center,Hines,IL,60141,14007F,,USA,1,,949
+PAPT,IT1: Hospital Based Lab,2,UPMC Histocompatibility Laboratories,,"University of Pittsburgh Medical Center, Histocompatibility Laboratory, Pre",Pittsburgh,PA,15213,,,USA,1,,951
+MDAI,TT1: Independent Lab,2,Applied Immunogenetics Laboratory,,Applied Immunogenetics Laboratory,Owings Mills,MD,21117,,,USA,1,,954
+TXDS,TX1: Transplant Hospital,4,Dell Seton Medical Center,,Dell Seton Medical Center at The University of Texas at Austin,Austin,TX,78701,450124,,USA,1,,955
+SCPG,TX1: Transplant Hospital,11,Prisma Health Greenville Memorial Hos,Prisma Health Greenville Memorial Hos,Prisma Health Greenville Memorial Hospital,Greenville,SC,29605,42-0078,,USA,1,,957
+SCLA,TX1: Transplant Hospital,11,MUSC Lancaster,,MUSC Lancaster,Lancaster,SC,29720,420036,,USA,0,,959

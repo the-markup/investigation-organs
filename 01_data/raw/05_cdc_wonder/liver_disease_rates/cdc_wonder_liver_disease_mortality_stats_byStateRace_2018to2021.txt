@@ -1,0 +1,347 @@
+"Notes"	"Residence State"	"Residence State Code"	"Single Race 6"	"Single Race 6 Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"American Indian or Alaska Native"	"1002-5"	16	138968	Unreliable
+	"Alabama"	"01"	"Asian"	"A"	11	297984	Unreliable
+	"Alabama"	"01"	"Black or African American"	"2054-5"	485	5263595	9.2142
+	"Alabama"	"01"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	21103	Suppressed
+	"Alabama"	"01"	"White"	"2106-3"	3083	13561457	22.7335
+	"Alabama"	"01"	"More than one race"	"M"	Suppressed	351013	Suppressed
+	"Alaska"	"02"	"American Indian or Alaska Native"	"1002-5"	237	455093	52.0773
+	"Alaska"	"02"	"Asian"	"A"	Suppressed	193938	Suppressed
+	"Alaska"	"02"	"Black or African American"	"2054-5"	Suppressed	108364	Suppressed
+	"Alaska"	"02"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	44003	Suppressed
+	"Alaska"	"02"	"White"	"2106-3"	318	1906337	16.6812
+	"Alaska"	"02"	"More than one race"	"M"	22	223564	9.8406
+	"Arizona"	"04"	"American Indian or Alaska Native"	"1002-5"	1088	1548951	70.2411
+	"Arizona"	"04"	"Asian"	"A"	34	1094745	3.1057
+	"Arizona"	"04"	"Black or African American"	"2054-5"	100	1531425	6.5299
+	"Arizona"	"04"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	81856	Suppressed
+	"Arizona"	"04"	"White"	"2106-3"	4235	24162886	17.5269
+	"Arizona"	"04"	"More than one race"	"M"	121	873302	13.8555
+	"Arkansas"	"05"	"American Indian or Alaska Native"	"1002-5"	13	124370	Unreliable
+	"Arkansas"	"05"	"Asian"	"A"	11	207196	Unreliable
+	"Arkansas"	"05"	"Black or African American"	"2054-5"	209	1897083	11.0169
+	"Arkansas"	"05"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	48337	Suppressed
+	"Arkansas"	"05"	"White"	"2106-3"	1849	9547299	19.3667
+	"Arkansas"	"05"	"More than one race"	"M"	Suppressed	268388	Suppressed
+	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	399	2635478	15.1396
+	"California"	"06"	"Asian"	"A"	1139	24641139	4.6224
+	"California"	"06"	"Black or African American"	"2054-5"	1196	10219273	11.7034
+	"California"	"06"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	65	807225	8.0523
+	"California"	"06"	"White"	"2106-3"	21034	113102501	18.5973
+	"California"	"06"	"More than one race"	"M"	414	6399808	6.4689
+	"Colorado"	"08"	"American Indian or Alaska Native"	"1002-5"	148	376888	39.2690
+	"Colorado"	"08"	"Asian"	"A"	38	814112	4.6677
+	"Colorado"	"08"	"Black or African American"	"2054-5"	144	1062272	13.5559
+	"Colorado"	"08"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	46832	Suppressed
+	"Colorado"	"08"	"White"	"2106-3"	3805	20033842	18.9929
+	"Colorado"	"08"	"More than one race"	"M"	28	735792	3.8054
+	"Connecticut"	"09"	"American Indian or Alaska Native"	"1002-5"	Suppressed	86116	Suppressed
+	"Connecticut"	"09"	"Asian"	"A"	21	707552	2.9680
+	"Connecticut"	"09"	"Black or African American"	"2054-5"	102	1752973	5.8187
+	"Connecticut"	"09"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	15931	Suppressed
+	"Connecticut"	"09"	"White"	"2106-3"	1732	11332111	15.2840
+	"Connecticut"	"09"	"More than one race"	"M"	Suppressed	357281	Suppressed
+	"Delaware"	"10"	"American Indian or Alaska Native"	"1002-5"	Suppressed	26818	Suppressed
+	"Delaware"	"10"	"Asian"	"A"	Suppressed	162533	Suppressed
+	"Delaware"	"10"	"Black or African American"	"2054-5"	72	909092	7.9200
+	"Delaware"	"10"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	4380	Suppressed
+	"Delaware"	"10"	"White"	"2106-3"	435	2701890	16.0998
+	"Delaware"	"10"	"More than one race"	"M"	Suppressed	109840	Suppressed
+	"District of Columbia"	"11"	"American Indian or Alaska Native"	"1002-5"	Suppressed	16906	Suppressed
+	"District of Columbia"	"11"	"Asian"	"A"	Suppressed	127447	Suppressed
+	"District of Columbia"	"11"	"Black or African American"	"2054-5"	176	1299037	13.5485
+	"District of Columbia"	"11"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	4076	Suppressed
+	"District of Columbia"	"11"	"White"	"2106-3"	68	1304367	5.2133
+	"District of Columbia"	"11"	"More than one race"	"M"	Suppressed	82003	Suppressed
+	"Florida"	"12"	"American Indian or Alaska Native"	"1002-5"	32	443856	7.2095
+	"Florida"	"12"	"Asian"	"A"	110	2575052	4.2718
+	"Florida"	"12"	"Black or African American"	"2054-5"	986	14619580	6.7444
+	"Florida"	"12"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	100776	Suppressed
+	"Florida"	"12"	"White"	"2106-3"	12994	66569835	19.5194
+	"Florida"	"12"	"More than one race"	"M"	68	1934587	3.5150
+	"Georgia"	"13"	"American Indian or Alaska Native"	"1002-5"	Suppressed	226068	Suppressed
+	"Georgia"	"13"	"Asian"	"A"	77	1881918	4.0916
+	"Georgia"	"13"	"Black or African American"	"2054-5"	1024	13889774	7.3723
+	"Georgia"	"13"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	53809	Suppressed
+	"Georgia"	"13"	"White"	"2106-3"	4388	25551941	17.1729
+	"Georgia"	"13"	"More than one race"	"M"	Suppressed	953422	Suppressed
+	"Hawaii"	"15"	"American Indian or Alaska Native"	"1002-5"	Suppressed	22147	Suppressed
+	"Hawaii"	"15"	"Asian"	"A"	146	2111023	6.9161
+	"Hawaii"	"15"	"Black or African American"	"2054-5"	Suppressed	123170	Suppressed
+	"Hawaii"	"15"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	21	583171	3.6010
+	"Hawaii"	"15"	"White"	"2106-3"	284	1434976	19.7913
+	"Hawaii"	"15"	"More than one race"	"M"	103	1375888	7.4861
+	"Idaho"	"16"	"American Indian or Alaska Native"	"1002-5"	66	125241	52.6984
+	"Idaho"	"16"	"Asian"	"A"	Suppressed	114094	Suppressed
+	"Idaho"	"16"	"Black or African American"	"2054-5"	Suppressed	65663	Suppressed
+	"Idaho"	"16"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	16051	Suppressed
+	"Idaho"	"16"	"White"	"2106-3"	1089	6689151	16.2801
+	"Idaho"	"16"	"More than one race"	"M"	11	184899	Unreliable
+	"Illinois"	"17"	"American Indian or Alaska Native"	"1002-5"	11	306015	Unreliable
+	"Illinois"	"17"	"Asian"	"A"	106	3016990	3.5134
+	"Illinois"	"17"	"Black or African American"	"2054-5"	693	7417656	9.3426
+	"Illinois"	"17"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	33856	Suppressed
+	"Illinois"	"17"	"White"	"2106-3"	5508	38759749	14.2106
+	"Illinois"	"17"	"More than one race"	"M"	24	1053695	2.2777
+	"Indiana"	"18"	"American Indian or Alaska Native"	"1002-5"	12	114818	Unreliable
+	"Indiana"	"18"	"Asian"	"A"	19	699088	Unreliable
+	"Indiana"	"18"	"Black or African American"	"2054-5"	282	2691327	10.4781
+	"Indiana"	"18"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	18725	Suppressed
+	"Indiana"	"18"	"White"	"2106-3"	3928	22819698	17.2132
+	"Indiana"	"18"	"More than one race"	"M"	Suppressed	590347	Suppressed
+	"Iowa"	"19"	"American Indian or Alaska Native"	"1002-5"	26	68917	37.7265
+	"Iowa"	"19"	"Asian"	"A"	14	344627	Unreliable
+	"Iowa"	"19"	"Black or African American"	"2054-5"	49	518336	9.4533
+	"Iowa"	"19"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	20108	Suppressed
+	"Iowa"	"19"	"White"	"2106-3"	1518	11434252	13.2759
+	"Iowa"	"19"	"More than one race"	"M"	Suppressed	252097	Suppressed
+	"Kansas"	"20"	"American Indian or Alaska Native"	"1002-5"	37	140860	26.2672
+	"Kansas"	"20"	"Asian"	"A"	16	370995	Unreliable
+	"Kansas"	"20"	"Black or African American"	"2054-5"	90	716619	12.5590
+	"Kansas"	"20"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	15178	Suppressed
+	"Kansas"	"20"	"White"	"2106-3"	1508	10045585	15.0116
+	"Kansas"	"20"	"More than one race"	"M"	24	363192	6.6081
+	"Kentucky"	"21"	"American Indian or Alaska Native"	"1002-5"	Suppressed	54132	Suppressed
+	"Kentucky"	"21"	"Asian"	"A"	11	294162	Unreliable
+	"Kentucky"	"21"	"Black or African American"	"2054-5"	159	1518677	10.4696
+	"Kentucky"	"21"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	17590	Suppressed
+	"Kentucky"	"21"	"White"	"2106-3"	3115	15639035	19.9181
+	"Kentucky"	"21"	"More than one race"	"M"	Suppressed	366981	Suppressed
+	"Louisiana"	"22"	"American Indian or Alaska Native"	"1002-5"	11	147472	Unreliable
+	"Louisiana"	"22"	"Asian"	"A"	12	342287	Unreliable
+	"Louisiana"	"22"	"Black or African American"	"2054-5"	532	6108623	8.7090
+	"Louisiana"	"22"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	11645	Suppressed
+	"Louisiana"	"22"	"White"	"2106-3"	1717	11663087	14.7217
+	"Louisiana"	"22"	"More than one race"	"M"	Suppressed	326294	Suppressed
+	"Maine"	"23"	"American Indian or Alaska Native"	"1002-5"	12	38742	Unreliable
+	"Maine"	"23"	"Asian"	"A"	Suppressed	70192	Suppressed
+	"Maine"	"23"	"Black or African American"	"2054-5"	Suppressed	92140	Suppressed
+	"Maine"	"23"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	1924	Suppressed
+	"Maine"	"23"	"White"	"2106-3"	935	5081216	18.4011
+	"Maine"	"23"	"More than one race"	"M"	Suppressed	98684	Suppressed
+	"Maryland"	"24"	"American Indian or Alaska Native"	"1002-5"	Suppressed	149886	Suppressed
+	"Maryland"	"24"	"Asian"	"A"	56	1643017	3.4084
+	"Maryland"	"24"	"Black or African American"	"2054-5"	552	7535431	7.3254
+	"Maryland"	"24"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	28343	Suppressed
+	"Maryland"	"24"	"White"	"2106-3"	1814	14122549	12.8447
+	"Maryland"	"24"	"More than one race"	"M"	Suppressed	720776	Suppressed
+	"Massachusetts"	"25"	"American Indian or Alaska Native"	"1002-5"	Suppressed	139726	Suppressed
+	"Massachusetts"	"25"	"Asian"	"A"	53	2015043	2.6302
+	"Massachusetts"	"25"	"Black or African American"	"2054-5"	164	2507411	6.5406
+	"Massachusetts"	"25"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	29995	Suppressed
+	"Massachusetts"	"25"	"White"	"2106-3"	3165	22177019	14.2715
+	"Massachusetts"	"25"	"More than one race"	"M"	10	712606	Unreliable
+	"Michigan"	"26"	"American Indian or Alaska Native"	"1002-5"	91	294680	30.8810
+	"Michigan"	"26"	"Asian"	"A"	39	1350090	2.8887
+	"Michigan"	"26"	"Black or African American"	"2054-5"	691	5626672	12.2808
+	"Michigan"	"26"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	17104	Suppressed
+	"Michigan"	"26"	"White"	"2106-3"	5344	31598148	16.9124
+	"Michigan"	"26"	"More than one race"	"M"	36	1029188	3.4979
+	"Minnesota"	"27"	"American Indian or Alaska Native"	"1002-5"	192	309065	62.1229
+	"Minnesota"	"27"	"Asian"	"A"	59	1183598	4.9848
+	"Minnesota"	"27"	"Black or African American"	"2054-5"	129	1595116	8.0872
+	"Minnesota"	"27"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	17659	Suppressed
+	"Minnesota"	"27"	"White"	"2106-3"	2727	18865853	14.4547
+	"Minnesota"	"27"	"More than one race"	"M"	37	594204	6.2268
+	"Mississippi"	"28"	"American Indian or Alaska Native"	"1002-5"	43	74340	57.8423
+	"Mississippi"	"28"	"Asian"	"A"	12	131326	Unreliable
+	"Mississippi"	"28"	"Black or African American"	"2054-5"	426	4501297	9.4639
+	"Mississippi"	"28"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	7510	Suppressed
+	"Mississippi"	"28"	"White"	"2106-3"	1586	7021166	22.5888
+	"Mississippi"	"28"	"More than one race"	"M"	Suppressed	160612	Suppressed
+	"Missouri"	"29"	"American Indian or Alaska Native"	"1002-5"	25	143874	17.3763
+	"Missouri"	"29"	"Asian"	"A"	19	538198	Unreliable
+	"Missouri"	"29"	"Black or African American"	"2054-5"	248	2900698	8.5497
+	"Missouri"	"29"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	40288	Suppressed
+	"Missouri"	"29"	"White"	"2106-3"	3015	20347889	14.8173
+	"Missouri"	"29"	"More than one race"	"M"	11	596029	Unreliable
+	"Montana"	"30"	"American Indian or Alaska Native"	"1002-5"	272	283855	95.8236
+	"Montana"	"30"	"Asian"	"A"	Suppressed	41281	Suppressed
+	"Montana"	"30"	"Black or African American"	"2054-5"	Suppressed	25680	Suppressed
+	"Montana"	"30"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	3701	Suppressed
+	"Montana"	"30"	"White"	"2106-3"	599	3814899	15.7016
+	"Montana"	"30"	"More than one race"	"M"	Suppressed	122821	Suppressed
+	"Nebraska"	"31"	"American Indian or Alaska Native"	"1002-5"	58	119770	48.4262
+	"Nebraska"	"31"	"Asian"	"A"	12	212558	Unreliable
+	"Nebraska"	"31"	"Black or African American"	"2054-5"	45	404348	11.1290
+	"Nebraska"	"31"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	9773	Suppressed
+	"Nebraska"	"31"	"White"	"2106-3"	953	6811207	13.9916
+	"Nebraska"	"31"	"More than one race"	"M"	Suppressed	181124	Suppressed
+	"Nevada"	"32"	"American Indian or Alaska Native"	"1002-5"	66	209181	31.5516
+	"Nevada"	"32"	"Asian"	"A"	70	1096589	6.3834
+	"Nevada"	"32"	"Black or African American"	"2054-5"	124	1279253	9.6932
+	"Nevada"	"32"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	101737	Suppressed
+	"Nevada"	"32"	"White"	"2106-3"	1886	9125071	20.6683
+	"Nevada"	"32"	"More than one race"	"M"	25	579235	4.3160
+	"New Hampshire"	"33"	"American Indian or Alaska Native"	"1002-5"	Suppressed	16646	Suppressed
+	"New Hampshire"	"33"	"Asian"	"A"	Suppressed	164228	Suppressed
+	"New Hampshire"	"33"	"Black or African American"	"2054-5"	Suppressed	98792	Suppressed
+	"New Hampshire"	"33"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	2775	Suppressed
+	"New Hampshire"	"33"	"White"	"2106-3"	857	5069164	16.9061
+	"New Hampshire"	"33"	"More than one race"	"M"	Suppressed	97114	Suppressed
+	"New Jersey"	"34"	"American Indian or Alaska Native"	"1002-5"	Suppressed	230755	Suppressed
+	"New Jersey"	"34"	"Asian"	"A"	137	3592633	3.8134
+	"New Jersey"	"34"	"Black or African American"	"2054-5"	365	5380685	6.7835
+	"New Jersey"	"34"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	42140	Suppressed
+	"New Jersey"	"34"	"White"	"2106-3"	3285	25490533	12.8871
+	"New Jersey"	"34"	"More than one race"	"M"	Suppressed	818706	Suppressed
+	"New Mexico"	"35"	"American Indian or Alaska Native"	"1002-5"	865	924715	93.5423
+	"New Mexico"	"35"	"Asian"	"A"	Suppressed	153912	Suppressed
+	"New Mexico"	"35"	"Black or African American"	"2054-5"	31	221434	13.9997
+	"New Mexico"	"35"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	13731	Suppressed
+	"New Mexico"	"35"	"White"	"2106-3"	1952	6868997	28.4175
+	"New Mexico"	"35"	"More than one race"	"M"	14	222106	Unreliable
+	"New York"	"36"	"American Indian or Alaska Native"	"1002-5"	59	773548	7.6272
+	"New York"	"36"	"Asian"	"A"	218	7068386	3.0842
+	"New York"	"36"	"Black or African American"	"2054-5"	760	13690140	5.5514
+	"New York"	"36"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	109601	Suppressed
+	"New York"	"36"	"White"	"2106-3"	6083	53958667	11.2734
+	"New York"	"36"	"More than one race"	"M"	22	2068980	1.0633
+	"North Carolina"	"37"	"American Indian or Alaska Native"	"1002-5"	103	665361	15.4803
+	"North Carolina"	"37"	"Asian"	"A"	47	1370099	3.4304
+	"North Carolina"	"37"	"Black or African American"	"2054-5"	898	9352612	9.6016
+	"North Carolina"	"37"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	56095	Suppressed
+	"North Carolina"	"37"	"White"	"2106-3"	5217	29632394	17.6057
+	"North Carolina"	"37"	"More than one race"	"M"	Suppressed	996789	Suppressed
+	"North Dakota"	"38"	"American Indian or Alaska Native"	"1002-5"	144	170173	84.6198
+	"North Dakota"	"38"	"Asian"	"A"	Suppressed	52466	Suppressed
+	"North Dakota"	"38"	"Black or African American"	"2054-5"	Suppressed	104872	Suppressed
+	"North Dakota"	"38"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	2520	Suppressed
+	"North Dakota"	"38"	"White"	"2106-3"	351	2651902	13.2358
+	"North Dakota"	"38"	"More than one race"	"M"	Suppressed	70824	Suppressed
+	"Ohio"	"39"	"American Indian or Alaska Native"	"1002-5"	18	136698	Unreliable
+	"Ohio"	"39"	"Asian"	"A"	48	1188308	4.0394
+	"Ohio"	"39"	"Black or African American"	"2054-5"	701	6115559	11.4626
+	"Ohio"	"39"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	29701	Suppressed
+	"Ohio"	"39"	"White"	"2106-3"	6182	38160164	16.2001
+	"Ohio"	"39"	"More than one race"	"M"	12	1134546	Unreliable
+	"Oklahoma"	"40"	"American Indian or Alaska Native"	"1002-5"	545	1502455	36.2740
+	"Oklahoma"	"40"	"Asian"	"A"	Suppressed	378464	Suppressed
+	"Oklahoma"	"40"	"Black or African American"	"2054-5"	150	1235125	12.1445
+	"Oklahoma"	"40"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	34553	Suppressed
+	"Oklahoma"	"40"	"White"	"2106-3"	2228	11703307	19.0374
+	"Oklahoma"	"40"	"More than one race"	"M"	97	1007712	9.6258
+	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	99	310518	31.8822
+	"Oregon"	"41"	"Asian"	"A"	21	824261	2.5477
+	"Oregon"	"41"	"Black or African American"	"2054-5"	34	376544	9.0295
+	"Oregon"	"41"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	78520	Suppressed
+	"Oregon"	"41"	"White"	"2106-3"	2921	14619766	19.9798
+	"Oregon"	"41"	"More than one race"	"M"	32	681855	4.6931
+	"Pennsylvania"	"42"	"American Indian or Alaska Native"	"1002-5"	Suppressed	207144	Suppressed
+	"Pennsylvania"	"42"	"Asian"	"A"	59	1945034	3.0334
+	"Pennsylvania"	"42"	"Black or African American"	"2054-5"	459	6175375	7.4327
+	"Pennsylvania"	"42"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	42414	Suppressed
+	"Pennsylvania"	"42"	"White"	"2106-3"	5749	41700279	13.7865
+	"Pennsylvania"	"42"	"More than one race"	"M"	24	1105311	2.1713
+	"Rhode Island"	"44"	"American Indian or Alaska Native"	"1002-5"	Suppressed	46819	Suppressed
+	"Rhode Island"	"44"	"Asian"	"A"	Suppressed	155871	Suppressed
+	"Rhode Island"	"44"	"Black or African American"	"2054-5"	15	362419	Unreliable
+	"Rhode Island"	"44"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	8696	Suppressed
+	"Rhode Island"	"44"	"White"	"2106-3"	649	3533879	18.3651
+	"Rhode Island"	"44"	"More than one race"	"M"	11	123242	Unreliable
+	"South Carolina"	"45"	"American Indian or Alaska Native"	"1002-5"	13	114168	Unreliable
+	"South Carolina"	"45"	"Asian"	"A"	20	382051	5.2349
+	"South Carolina"	"45"	"Black or African American"	"2054-5"	663	5565840	11.9119
+	"South Carolina"	"45"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	20758	Suppressed
+	"South Carolina"	"45"	"White"	"2106-3"	3033	14173281	21.3994
+	"South Carolina"	"45"	"More than one race"	"M"	Suppressed	412823	Suppressed
+	"South Dakota"	"46"	"American Indian or Alaska Native"	"1002-5"	432	319520	135.2028
+	"South Dakota"	"46"	"Asian"	"A"	Suppressed	58734	Suppressed
+	"South Dakota"	"46"	"Black or African American"	"2054-5"	Suppressed	84242	Suppressed
+	"South Dakota"	"46"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	3258	Suppressed
+	"South Dakota"	"46"	"White"	"2106-3"	456	2998167	15.2093
+	"South Dakota"	"46"	"More than one race"	"M"	12	88407	Unreliable
+	"Tennessee"	"47"	"American Indian or Alaska Native"	"1002-5"	12	132141	Unreliable
+	"Tennessee"	"47"	"Asian"	"A"	26	536274	4.8483
+	"Tennessee"	"47"	"Black or African American"	"2054-5"	433	4664384	9.2831
+	"Tennessee"	"47"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	27404	Suppressed
+	"Tennessee"	"47"	"White"	"2106-3"	4478	21456599	20.8700
+	"Tennessee"	"47"	"More than one race"	"M"	Suppressed	556050	Suppressed
+	"Texas"	"48"	"American Indian or Alaska Native"	"1002-5"	77	1200433	6.4144
+	"Texas"	"48"	"Asian"	"A"	198	6166396	3.2110
+	"Texas"	"48"	"Black or African American"	"2054-5"	1314	15101582	8.7011
+	"Texas"	"48"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	175659	Suppressed
+	"Texas"	"48"	"White"	"2106-3"	17093	91347001	18.7122
+	"Texas"	"48"	"More than one race"	"M"	28	2428173	1.1531
+	"Utah"	"49"	"American Indian or Alaska Native"	"1002-5"	79	199708	39.5578
+	"Utah"	"49"	"Asian"	"A"	13	345452	Unreliable
+	"Utah"	"49"	"Black or African American"	"2054-5"	Suppressed	190263	Suppressed
+	"Utah"	"49"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	140616	Suppressed
+	"Utah"	"49"	"White"	"2106-3"	1092	11646688	9.3761
+	"Utah"	"49"	"More than one race"	"M"	15	344094	Unreliable
+	"Vermont"	"50"	"American Indian or Alaska Native"	"1002-5"	Suppressed	9828	Suppressed
+	"Vermont"	"50"	"Asian"	"A"	Suppressed	49601	Suppressed
+	"Vermont"	"50"	"Black or African American"	"2054-5"	Suppressed	35327	Suppressed
+	"Vermont"	"50"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	958	Suppressed
+	"Vermont"	"50"	"White"	"2106-3"	329	2351080	13.9936
+	"Vermont"	"50"	"More than one race"	"M"	Suppressed	50188	Suppressed
+	"Virginia"	"51"	"American Indian or Alaska Native"	"1002-5"	10	189209	Unreliable
+	"Virginia"	"51"	"Asian"	"A"	83	2399502	3.4591
+	"Virginia"	"51"	"Black or African American"	"2054-5"	637	6814436	9.3478
+	"Virginia"	"51"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	40968	Suppressed
+	"Virginia"	"51"	"White"	"2106-3"	3643	23697552	15.3729
+	"Virginia"	"51"	"More than one race"	"M"	17	1092663	Unreliable
+	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	238	590659	40.2940
+	"Washington"	"53"	"Asian"	"A"	124	2945507	4.2098
+	"Washington"	"53"	"Black or African American"	"2054-5"	128	1336070	9.5803
+	"Washington"	"53"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	16	242432	Unreliable
+	"Washington"	"53"	"White"	"2106-3"	4153	23907276	17.3713
+	"Washington"	"53"	"More than one race"	"M"	82	1515764	5.4098
+	"West Virginia"	"54"	"American Indian or Alaska Native"	"1002-5"	Suppressed	18329	Suppressed
+	"West Virginia"	"54"	"Asian"	"A"	Suppressed	60893	Suppressed
+	"West Virginia"	"54"	"Black or African American"	"2054-5"	44	260329	16.9017
+	"West Virginia"	"54"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	2134	Suppressed
+	"West Virginia"	"54"	"White"	"2106-3"	1502	6693195	22.4407
+	"West Virginia"	"54"	"More than one race"	"M"	Suppressed	132673	Suppressed
+	"Wisconsin"	"55"	"American Indian or Alaska Native"	"1002-5"	131	276147	47.4385
+	"Wisconsin"	"55"	"Asian"	"A"	21	717600	2.9264
+	"Wisconsin"	"55"	"Black or African American"	"2054-5"	181	1565824	11.5594
+	"Wisconsin"	"55"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	13720	Suppressed
+	"Wisconsin"	"55"	"White"	"2106-3"	2911	20248475	14.3764
+	"Wisconsin"	"55"	"More than one race"	"M"	11	479546	Unreliable
+	"Wyoming"	"56"	"American Indian or Alaska Native"	"1002-5"	80	64386	124.2506
+	"Wyoming"	"56"	"Asian"	"A"	Suppressed	25572	Suppressed
+	"Wyoming"	"56"	"Black or African American"	"2054-5"	Suppressed	29190	Suppressed
+	"Wyoming"	"56"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	2402	Suppressed
+	"Wyoming"	"56"	"White"	"2106-3"	524	2147352	24.4021
+	"Wyoming"	"56"	"More than one race"	"M"	Suppressed	52250	Suppressed
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Month"
+"Query Parameters:"
+"UCD - ICD-10 113 Cause List: #Chronic liver disease and cirrhosis (K70,K73-K74)"
+"Year/Month: 2018; 2019; 2020; 2021 (provisional)"
+"Group By: Residence State; Single Race 6"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Oct 22, 2022 1:56:32 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2020,"
+"and from provisional data for years 2021-2022, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Oct 22, 2022 1:56:32"
+"PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Unreliable."
+"3. The population figures for years 2021 and 2020 are single-race estimates of the July 1 resident population, from the Vintage"
+"2020 postcensal series released by the Census Bureau on July 27, 2021. The population figures for year 2019 are single-race"
+"estimates of the July 1 resident population, from the Vintage 2019 postcensal series released by the Census Bureau on June 25,"
+"2020. The population figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by the Census Bureau on June 20, 2019."
+"4. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Age"
+"Group."
+"5. Deaths occurring through October 01, 2022 as of October 11, 2022."

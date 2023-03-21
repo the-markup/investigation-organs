@@ -1,0 +1,7 @@
+"DON_DISPOSITION","N_LIVERS_2018","N_LIVERS_2019","N_LIVERS_2020","N_LIVERS_2021"
+"1: Authorization Not Requested",12,13,19,21
+"2: Authorization Not Obtained",58,72,81,90
+"3: Organ Not Recovered",1753,2109,2738,3531
+"4: Recovered Not for Tx",437,545,542,686
+"5: Recovered for TX but Not Tx",725,881,871,949
+"6: Transplanted",7855,8373,8418,8664

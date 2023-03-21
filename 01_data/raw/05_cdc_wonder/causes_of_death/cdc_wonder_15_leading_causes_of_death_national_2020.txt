@@ -1,0 +1,77 @@
+"Notes"	"15 Leading Causes of Death"	"15 Leading Causes of Death Code"	Deaths	Population	Crude Rate
+	"#Diseases of heart (I00-I09,I11,I13,I20-I51)"	"GR113-054"	696280	256662010	271.3
+	"#Malignant neoplasms (C00-C97)"	"GR113-019"	600886	256662010	234.1
+	"#COVID-19 (U07.1)"	"GR113-137"	350686	256662010	136.6
+	"#Accidents (unintentional injuries) (V01-X59,Y85-Y86)"	"GR113-112"	195186	256662010	76.0
+	"#Cerebrovascular diseases (I60-I69)"	"GR113-070"	159990	256662010	62.3
+	"#Chronic lower respiratory diseases (J40-J47)"	"GR113-082"	152431	256662010	59.4
+	"#Alzheimer disease (G30)"	"GR113-052"	134242	256662010	52.3
+	"#Diabetes mellitus (E10-E14)"	"GR113-046"	102082	256662010	39.8
+	"#Influenza and pneumonia (J09-J18)"	"GR113-076"	53192	256662010	20.7
+	"#Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)"	"GR113-097"	52470	256662010	20.4
+	"#Chronic liver disease and cirrhosis (K70,K73-K74)"	"GR113-093"	51635	256662010	20.1
+	"#Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)"	"GR113-124"	44298	256662010	17.3
+	"#Essential hypertension and hypertensive renal disease (I10,I12,I15)"	"GR113-069"	41904	256662010	16.3
+	"#Parkinson disease (G20-G21)"	"GR113-051"	40284	256662010	15.7
+	"#Septicemia (A40-A41)"	"GR113-010"	39835	256662010	15.5
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Single-Year Ages: 18 years; 19 years; 20 years; 21 years; 22 years; 23 years; 24 years; 25 years; 26 years; 27 years; 28 years;"
+"29 years; 30 years; 31 years; 32 years; 33 years; 34 years; 35 years; 36 years; 37 years; 38 years; 39 years; 40 years; 41"
+"years; 42 years; 43 years; 44 years; 45 years; 46 years; 47 years; 48 years; 49 years; 50 years; 51 years; 52 years; 53 years;"
+"54 years; 55 years; 56 years; 57 years; 58 years; 59 years; 60 years; 61 years; 62 years; 63 years; 64 years; 65 years; 66"
+"years; 67 years; 68 years; 69 years; 70 years; 71 years; 72 years; 73 years; 74 years; 75 years; 76 years; 77 years; 78 years;"
+"79 years; 80 years; 81 years; 82 years; 83 years; 84 years; 85 years; 86 years; 87 years; 88 years; 89 years; 90 years; 91"
+"years; 92 years; 93 years; 94 years; 95 years; 96 years; 97 years; 98 years; 99 years; 100+ years"
+"Year/Month: 2020"
+"Group By: 15 Leading Causes of Death"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: Disabled"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Mar 4, 2023 4:04:08 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Mar 4, 2023 4:04:08 PM"
+"---"
+Messages:
+"1. When you group results by 15 Leading Causes, results are initially ordered by Death counts; also, total rows, zero rows,"
+"suppressed rows, and Percent of Total are not available. Click any green up/down arrow to change the order. #Top15#"
+"---"
+Footnotes:
+"1. A '#' symbol preceding the label indicates a rankable cause of death. More information."
+"---"
+Caveats:
+"1. When you group results by 15 Leading Causes, results show the top 15 rankable causes for the query criteria. Rankable causes"
+"are a subset of the ICD 113 and ICD 130 (Infants) Cause Lists. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Top15."
+"2. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"3. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."

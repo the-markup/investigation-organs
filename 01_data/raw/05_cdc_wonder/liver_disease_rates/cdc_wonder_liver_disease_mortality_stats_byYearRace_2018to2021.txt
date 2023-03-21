@@ -1,0 +1,62 @@
+"Notes"	"Year"	"Year Code"	"Single Race 6"	"Single Race 6 Code"	Deaths	Population	Crude Rate
+	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	1149	4147521	27.7033
+	"2018"	"2018"	"Asian"	"A"	671	19330600	3.4712
+	"2018"	"2018"	"Black or African American"	"2054-5"	3314	43804319	7.5655
+	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	46	799418	5.7542
+	"2018"	"2018"	"White"	"2106-3"	37353	250139096	14.9329
+	"2018"	"2018"	"More than one race"	"M"	305	8946480	3.4092
+"Total"	"2018"	"2018"			42838	327167434	13.0936
+	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	1146	4188092	27.3633
+	"2019"	"2019"	"Asian"	"A"	701	19504862	3.5940
+	"2019"	"2019"	"Black or African American"	"2054-5"	3477	44075086	7.8888
+	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	39	806937	4.8331
+	"2019"	"2019"	"White"	"2106-3"	38703	250522190	15.4489
+	"2019"	"2019"	"More than one race"	"M"	292	9142356	3.1939
+"Total"	"2019"	"2019"			44358	328239523	13.5139
+	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	1523	4292990	35.4764
+	"2020"	"2020"	"Asian"	"A"	865	20012278	4.3223
+	"2020"	"2020"	"Black or African American"	"2054-5"	4140	44531112	9.2969
+	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	44	843693	5.2152
+	"2020"	"2020"	"White"	"2106-3"	44700	250309724	17.8579
+	"2020"	"2020"	"More than one race"	"M"	370	9494326	3.8971
+"Total"	"2020"	"2020"			51642	329484123	15.6736
+	"2021 (provisional)"	"2021"	"American Indian or Alaska Native"	"1002-5"	1993	4292990	46.4245
+	"2021 (provisional)"	"2021"	"Asian"	"A"	905	20012278	4.5222
+	"2021 (provisional)"	"2021"	"Black or African American"	"2054-5"	4610	44531112	10.3523
+	"2021 (provisional)"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	64	843693	7.5857
+	"2021 (provisional)"	"2021"	"White"	"2106-3"	48564	250309724	19.4016
+	"2021 (provisional)"	"2021"	"More than one race"	"M"	449	9494326	4.7291
+"Total"	"2021 (provisional)"	"2021"			56585	329484123	17.1738
+"Total"					195423	1314375203	14.8681
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Month"
+"Query Parameters:"
+"UCD - ICD-10 113 Cause List: #Chronic liver disease and cirrhosis (K70,K73-K74)"
+"Year/Month: 2018; 2019; 2020; 2021 (provisional)"
+"Group By: Year; Single Race 6"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Oct 22, 2022 1:58:47 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2020,"
+"and from provisional data for years 2021-2022, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Oct 22, 2022 1:58:47"
+"PM"
+"---"
+Caveats:
+"1. The population figures for years 2021 and 2020 are single-race estimates of the July 1 resident population, from the Vintage"
+"2020 postcensal series released by the Census Bureau on July 27, 2021. The population figures for year 2019 are single-race"
+"estimates of the July 1 resident population, from the Vintage 2019 postcensal series released by the Census Bureau on June 25,"
+"2020. The population figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by the Census Bureau on June 20, 2019."
+"2. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Age"
+"Group."
+"3. Deaths occurring through October 01, 2022 as of October 11, 2022."
