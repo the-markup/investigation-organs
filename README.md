@@ -10,7 +10,11 @@ For the sake of convenience, we've already commited the outputs of our analysis,
 
 ### Data
 
-In this repository the data used as the input for analysis is stored in the `01_data` folder, along with the code used to clean the raw data. We've included the raw data as well as our cleaned data, found in `01_data/raw` and `01_data/clean`, respectively.
+In this repository the data used as the input for analysis is stored in the `01_data` folder, along with the code used to clean the raw data. We've included the raw data as well as our cleaned data, found in `01_data/raw` and `01_data/clean`, respectively. Some files will need to be uncompressed first. To do that you can run:
+
+```
+find . -name '*.gz' -print0 | xargs -0 gunzip --keep
+```
 
 Within the `01_data/raw` folder, you can find the following raw data sources:
 
