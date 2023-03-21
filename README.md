@@ -30,7 +30,7 @@ Within the `01_data/raw` folder, you can find the following raw data sources:
 | `04_transplant/TX_LI_22F218Records(2of2)-redacted.csv` | A dataset on liver transplants. Referred to as the "transplant data" in the methodology. |
 | `05_cdc_wonder/causes_of_death` | A folder of data files from the CDC Wonder database on major causes of death. |
 | `05_cdc_wonder/liver_disease_rates` | A folder of data files from the CDC Wonder database on the prevelance of chronic liver disease and cirrhosis. |
-| `06_don_dsip/DONDISPOSITION_22F167Records-redacted.csv` | A dataset of information on organ donor disposition. Referred to as "donor disposition data" in the methodology. |
+| `06_don_disp/DONDISPOSITION_22F167Records-redacted.csv` | A dataset of information on organ donor disposition. Referred to as "donor disposition data" in the methodology. |
 | `07_optn_tx_counts/OPTN-Transplants_in_the_U.S._by_State-20230216.csv` | A data table from OPTN on the number of liver transplants performed. Downloaded on 02/16/2023. |
 
 Within the `01_data/clean` folder, you can find the following clean data sources (produced with `01_master_organs_data_clean.R`):
