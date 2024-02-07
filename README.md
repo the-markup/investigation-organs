@@ -6,7 +6,7 @@ An investigation from The Markup/The Washington Post
 
 This repository contains code to reproduce the findings featured in [our investigation on liver transplants](https://themarkup.org/organ-failure/2023/03/21/poorer-states-suffer-under-new-organ-donation-rules-as-livers-go-to-waste), which is described in detail in [our methodology](https://themarkup.org/show-your-work/2023/03/21/how-we-investigated-unoss-liver-allocation-policy).
 
-For the sake of convenience, we've already commited the outputs of our analysis, which you can view in the `02_analysis/output` folder. If you want to rerun the analysis and verify the steps yourself, see the **Run analysis** section.
+For the sake of convenience, we've already commited the outputs of our analysis, which you can view in the `02_analysis/output` folder. If you want to rerun the analysis and verify the steps yourself, see the **Run analysis** section. 
 
 ### Data
 
