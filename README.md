@@ -1,12 +1,12 @@
-# How We Investigated UNOS’s Liver Allocation Policy
+# How We Investigated UNOS’s Liver Allocation Policy and Inequities in the Liver Transplant System 
 
-An investigation from The Markup/The Washington Post
+Two investigations from The Markup/The Washington Post
 
 ---
 
-This repository contains code to reproduce the findings featured in [our investigation on liver transplants](https://themarkup.org/organ-failure/2023/03/21/poorer-states-suffer-under-new-organ-donation-rules-as-livers-go-to-waste), which is described in detail in [our methodology](https://themarkup.org/show-your-work/2023/03/21/how-we-investigated-unoss-liver-allocation-policy).
+This repository contains code to reproduce the findings featured in [our investigation on liver transplants](https://themarkup.org/organ-failure/2023/03/21/poorer-states-suffer-under-new-organ-donation-rules-as-livers-go-to-waste), which is described in detail in [our methodology](https://themarkup.org/show-your-work/2023/03/21/how-we-investigated-unoss-liver-allocation-policy). It also contains code to reproduce the findings of [a subsequent investigation on racial inequities in the liver transplant system](https://themarkup.org/organ-failure/2024/02/08/a-death-sentence-native-americans-shut-out-of-the-nations-liver-transplant-system), described in detail in [a separate methodology](https://themarkup.org/show-your-work/2024/02/08/how-we-investigated-racial-disparities-in-liver-transplants).
 
-For the sake of convenience, we've already commited the outputs of our analysis, which you can view in the `02_analysis/output` folder. If you want to rerun the analysis and verify the steps yourself, see the **Run analysis** section. 
+For the sake of convenience, we've already commited the outputs of our analyses, which you can view in the `02_analysis/output` folder. If you want to rerun the analysis and verify the steps yourself, see the **Run analysis** section.
 
 ### Data
 
@@ -75,5 +75,11 @@ These notebooks include:
 | `06_donor_cause_of_death.ipynb` | An analysis of the major causes of death among liver donors and in the United States broadly. |
 | `07_comp_tx_chg_across_periods.ipynb` | An analysis comparing the number of transplants performed based on variable time period selection. |
 | `08_covid.ipynb` | An analysis of the impacts of COVID-19 on the number of transplants performed nationally. |
+| `09_racial_discrepancies.ipynb` | An analysis, by racial group and state, of how deaths from liver disease compare to transplant and transplant waitlisting (added with second investigation). |
+| `10_ihs_unmet_need_reports.ipynb` | An analysis of deferrals for liver-related care by the Indian Health Service (added with second investigation). |
 
 Each notebook will generate analysis outputs (figures and tables), which can be found within `02_analysis/output`.
+
+### Update log
+
+- 2024-02-08: For our second investigation, into racial inequities in the transplant system, we produced two additional analysis notebooks, `09_racial_discrepancies` and `10_ihs_unmet_need_reports.ipynb`, described in the table above. These were added to this repo in the existing `02_analysis` folder. We also added data obtained from IHS regarding unmet service requests, which are analyzed in the `10_ihs_unmet_need_reports.ipynb` notebook - see the `01_data/raw/08_ihs_unmet_need` folder. For more, see [this pull request](https://github.com/the-markup/investigation-organs/pull/3).
